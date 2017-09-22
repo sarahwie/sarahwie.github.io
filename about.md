@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Research Interests
 
-Natural language processing, Machine learning
+Natural language processing
 
 ### Contact me
 
