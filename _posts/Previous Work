@@ -1,1 +1,6 @@
+---
+layout: post
+title: Previous Work
+---
+
 Undergraduate thesis: {{ site.url }}/assets/thesis.pdf
