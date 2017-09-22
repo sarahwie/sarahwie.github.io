@@ -3,4 +3,4 @@ layout: post
 title: Previous Work
 ---
 
-Undergraduate thesis: {{ site.url }}/wiegreffe_thesis.pdf
+Undergraduate thesis: [PDF]({{ site.url }}/wiegreffe_thesis.pdf)
