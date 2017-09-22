@@ -13,5 +13,5 @@ Can Classification of Publications into Translational Categories be Automated? E
 
 Estimating a Person's Age based on MRI Brain Scans: Course project at the University of Tartu, Estonia
 
-[PDF]({{ site.url }}/estimating_persons_age.pdf)
+[PDF]({{ site.url }}/estimating-persons-age.pdf)
 
