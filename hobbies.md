@@ -4,8 +4,7 @@ title:
 permalink: /hobbies/
 ---
 
-
-![IMG_9087]({{site_url}}/IMG_9087.jpg){:class="img-responsive"}
+![image]({{site_url}}/IMG_9087.jpg)
 
 Gulfoss waterfall, Iceland
 
