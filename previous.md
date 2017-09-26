@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: page
 title: Selected Previous Work
+permalink: /previous/
 ---
 
 Undergraduate Thesis: A Survey of Word2Vec Inversion Methods in Topic Recognition Tasks 
