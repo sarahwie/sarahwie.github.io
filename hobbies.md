@@ -3,8 +3,7 @@ layout: page
 title: 
 permalink: /hobbies/
 ---
-
-![image]({{site_url}}/IMG_9087.JPG =100x20)
+<img src="/IMG_9087.JPG" width="200">
 
 Gullfoss waterfall, Iceland
 
