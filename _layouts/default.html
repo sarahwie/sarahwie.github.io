@@ -26,8 +26,9 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
 
+          {% include about.md %}
+          
           <nav>
-            {% include about.md %}
             <a href="{{ site.baseurl }}/about">About</a>
             <a href="{{ site.baseurl }}/previous">Previous Work</a>
             <a href="{{ site.baseurl }}/press">Press</a>
