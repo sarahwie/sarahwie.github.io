@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### Research Interests
-
-Deep learning-based methods for natural language processing, machine learning for social computing.
+Welcome to my personal site! I am a first-year student PhD student in the School of Interactive Computing at the Georgia Institute of Technology, studying computer science. My research interests are deep learning-based methods for natural language processing, and more generally machine learning with applications in healthcare and social computing.
 
 ### Contact me
 
