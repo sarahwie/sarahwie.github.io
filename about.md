@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Research Interests
 
-Deep learning-based methods for natural language processing, machine learning with social computing applications.
+Deep learning-based methods for natural language processing, machine learning for social computing.
 
 ### Contact me
 
