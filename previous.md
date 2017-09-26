@@ -15,4 +15,4 @@ Estimating a Person's Age based on MRI Brain Scans: Course project at the Univer
 [PDF]({{ site.url }}/estimating-persons-age.pdf)
 
 Visualizing Refugee Migration Patterns: Course project at the College of Charleston.
-(<a href="http://uniola.biology.cofc.edu:3232/refugee_migration_trends/">site</a>)
+<a href="http://uniola.biology.cofc.edu:3232/refugee_migration_trends/">site</a>
