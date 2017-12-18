@@ -10,6 +10,3 @@ Undergraduate Thesis: A Survey of Word2Vec Inversion Methods in Topic Recognitio
 Undergraduate Thesis Presentation: [slides]({{ site.url }}/final_presentation.pdf)
 
 "Can Classification of Publications into Translational Categories be Automated?" Presented at AMIA Clinical Research Informatics, 2017. [poster]({{ site.url }}/poster.pdf)
-
-Visualizing Refugee Migration Patterns: Course project at the College of Charleston.
-<a href="http://uniola.biology.cofc.edu:3232/refugee_migration_trends/">site</a>
