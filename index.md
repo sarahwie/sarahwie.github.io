@@ -2,7 +2,8 @@
 layout: default
 ---
 
-Welcome to my personal site! I am a first-year PhD student in the School of Interactive Computing at Georgia Tech, studying computer science. My research interest is natural language processing, and more broadly machine learning with applications in healthcare and social computing.
+Welcome to my personal site! I am a first-year PhD student in the School of Interactive Computing at Georgia Tech, studying computer science. My research interest is natural language processing, and more broadly machine learning with applications in healthcare and social computing. I am advised by Drs. [Jacob Eisenstein](https://www.cc.gatech.edu/~jeisenst/)
+ and [Jimeng Sun](http://www.sunlab.org/). 
 
 ### Contact me
 
