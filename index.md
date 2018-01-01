@@ -10,3 +10,5 @@ Welcome to my personal site! I am a first-year PhD student in the School of Inte
 ### Contact me
 
 [swiegreffe6@gatech.edu](mailto:swiegreffe6@gatech.edu)
+
+### My CV can be found [here]({{ site.url }}/wiegreffe_cv.pdf)
