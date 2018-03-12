@@ -12,4 +12,4 @@ Mullenbach, J., **Wiegreffe, S.**, Duke, J., Sun, J. and Eisenstein, J. *Explain
 
 ### Other
 
-**Wiegreffe, S.** and Anderson, P. *A Survey of Word2Vec Inversion Methods in Topic Recognition Tasks*. Undergraduate Thesis. Presented at the College of Charleston, May 2017. [PDF]({{ site.url }}/wiegreffe_thesis.pdf), [Presentation slides]({{ site.url }}/final_presentation.pdf)
+**Wiegreffe, S.** and Anderson, P. *A Survey of Word2Vec Inversion Methods in Topic Recognition Tasks*. Undergraduate Thesis. Presented at the College of Charleston, May 2017. [PDF]({{ site.url }}/wiegreffe_thesis.pdf), [Slides]({{ site.url }}/final_presentation.pdf)
