@@ -12,4 +12,4 @@ My interests within NLP and machine learning are broad, but include machine read
 
 swiegreffe6[at]gatech[dot]edu
 
-My CV can be found [here]({{ site.url }}/website_cv.pdf) (last updated 02/15/18)
+My CV can be found [here]({{ site.url }}/website_cv.pdf) (last updated 09/21/18)
