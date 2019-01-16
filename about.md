@@ -12,3 +12,5 @@ My interests within NLP and machine learning are broad, but include machine read
 swiegreffe6[at]gatech[dot]edu
 
 My CV can be found [here]({{ site.url }}/website_cv.pdf) (last updated 01/10/19)
+
+How to pronounce my last name: vee-greh-fuh
