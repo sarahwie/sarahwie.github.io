@@ -7,16 +7,15 @@ Welcome to my personal site! I am a second-year PhD student in the School of Int
 My interests within NLP and machine learning are broad, but include machine reading, hierarchical representations of text, temporal modeling, and text generation/summarization.
 
 ### Updates
-- **Spring 2019:** I will be joining the Medical Records team at Google Brain this summer as a research intern.
-- **Summer 2018:** I was an intern at Sutter Health in Walnut Creek, CA working with the Research, Development and Dissemination Team on deep learning models for outcome prediction using text. 
-- **Summer 2018:** Attended NAACL in New Orleans.
+- **Summer 2019:** I will be joining the Medical Records team at [Google Brain](https://ai.google/research/teams/brain) as a research intern.
+- **Spring 2019:** I am a TA for [CS 4641 Machine Learning](https://bhrolenok.github.io/teaching/cs-4641-spr2019/index.html).
+- **Summer 2018:** I was an intern at [Sutter Health](https://www.sutterhealth.org/) working with the Research, Development and Dissemination Team on deep learning models for outcome prediction using text. 
+- **Summer 2018:** Attended [NAACL](http://naacl2018.org/) in New Orleans.
 - **Spring 2018:** Paper accepted to NAACL 2018 ([Explainable Prediction of Medical Codes from Clinical Text](https://arxiv.org/pdf/1802.05695.pdf))
-- **Spring 2018:** Attended the CRA-W Graduate Cohort Workshop for Women in San Francisco, CA.
+- **Spring 2018:** Attended the [CRA-W Graduate Cohort Workshop](https://cra.org/cra-w/events/grad-cohort-women-2018/) in San Francisco, CA.
 
 ### Contact me
 
 swiegreffe6[at]gatech[dot]edu
 
 My CV can be found [here]({{ site.url }}/website_cv.pdf) (last updated 01/10/19)
-
-How to pronounce my last name: vee-greh-fuh
