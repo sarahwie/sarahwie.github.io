@@ -9,6 +9,7 @@ My interests within NLP and machine learning are broad, but include machine read
 ### Updates
 - **Summer 2019:** I will be joining the Medical Records team at [Google Brain](https://ai.google/research/teams/brain) as a research intern.
 - **Spring 2019:** I passed my qualifying exam! (in intelligent systems: machine learning and NLP subareas)
+- **Spring 2019:** Invited to the CRA-W Graduate Cohort Workshop in Chicago, IL (declined).
 - **Spring 2019:** I am a TA for [CS 4641 Machine Learning](https://bhrolenok.github.io/teaching/cs-4641-spr2019/index.html).
 - **Spring 2019:** Attended [ACM FAT\* 2019](https://fatconference.org/2019/).
 - **Summer 2018:** I was an intern at [Sutter Health](https://www.sutterhealth.org/) working with the Research, Development and Dissemination Team on deep learning models for outcome prediction using text. 
