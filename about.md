@@ -8,7 +8,8 @@ Welcome to my personal site! I am a second-year PhD student in the School of Int
 My interests within NLP and machine learning are broad, but include machine reading, hierarchical representations of text, temporal modeling, and text generation/summarization.
 
 ### Updates
-- **Summer 2019:** I will be a research intern at [Google Medical Brain](https://ai.google/healthcare/).
+- **Summer 2019:** I am a research intern at [Google Medical Brain](https://ai.google/healthcare/), working with Dr. Edward Choi and Gerardo Flores. 
+- **Summer 2019:** Paper accepted at the ACL BioNLP 2019 workshop: [Clinical Concept Extraction for Document-Level Coding](https://arxiv.org/abs/1906.03380)
 - **Spring 2019:** I passed my qualifying exam! (in intelligent systems: machine learning and NLP subareas)
 - **Spring 2019:** Invited to the CRA-W Graduate Cohort Workshop in Chicago, IL (declined).
 - **Spring 2019:** I am a TA for [CS 4641 Machine Learning](https://bhrolenok.github.io/teaching/cs-4641-spr2019/index.html).
