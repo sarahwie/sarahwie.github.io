@@ -3,6 +3,7 @@ layout: page
 title: Publications
 permalink: /previous/
 ---
+**Wiegreffe, S.**, Choi, E., Yan, S., Sun, J. and Eisenstein, J. *Clinical Concept Extraction for Document-Level Coding*. ACL BioNLP Workshop. Florence, Italy, August 2019. [PDF](https://arxiv.org/abs/1906.03380)
 
 Mullenbach, J., **Wiegreffe, S.**, Duke, J., Sun, J. and Eisenstein, J. *Explainable Prediction of Medical Codes from Clinical Text*. NAACL Human Language Technologies 2018. New Orleans, LA, June 2018. [PDF](https://arxiv.org/abs/1802.05695)
 
