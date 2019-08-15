@@ -4,8 +4,6 @@ layout: default
 
 Welcome to my personal site! I am a third-year PhD student in the School of Interactive Computing at Georgia Tech, studying computer science. My research interest is in natural language processing and machine learning, with a focus on healthcare applications. 
  
-My interests within NLP and machine learning are broad, but include machine reading, hierarchical representations of text, temporal modeling, and text generation/summarization.
-
 ### Updates
 - **Fall 2019:** New paper with Yuval Pinter accepted to [EMNLP 2019](https://www.emnlp-ijcnlp2019.org/): [Attention is not not Explanation](https://arxiv.org/abs/1908.04626).
 - **Fall 2019:** I am a TA for [CS 7643 Deep Learning]() taught by Dhruv Batra.
