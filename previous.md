@@ -3,6 +3,8 @@ layout: page
 title: Publications
 permalink: /previous/
 ---
+**Wiegreffe, S.** and Pinter, Y. (equal contribution). *Attention is not not Explanation*. EMNLP 2019. [PDF](https://arxiv.org/abs/1908.04626) [Medium post](https://medium.com/@yuvalpinter/attention-is-not-not-explanation-dbc25b534017)
+
 **Wiegreffe, S.**, Choi, E., Yan, S., Sun, J. and Eisenstein, J. *Clinical Concept Extraction for Document-Level Coding*. ACL BioNLP Workshop. Florence, Italy, August 2019. [PDF](https://arxiv.org/abs/1906.03380)
 
 Mullenbach, J., **Wiegreffe, S.**, Duke, J., Sun, J. and Eisenstein, J. *Explainable Prediction of Medical Codes from Clinical Text*. NAACL Human Language Technologies 2018. New Orleans, LA, June 2018. [PDF](https://arxiv.org/abs/1802.05695)
