@@ -5,6 +5,7 @@ layout: default
 Welcome to my personal site! I am a third-year PhD student in the School of Interactive Computing at Georgia Tech, studying computer science. My research interest is in natural language processing and machine learning, with a focus on healthcare applications. 
  
 ### Updates
+- **Fall 2019:** Slides from my EMNLP talk can be found [here]({{ site.url }}/emnlp19_slides.pdf).
 - **Fall 2019:** New paper accepted to EMNLP 2019: [Attention is not not Explanation](https://arxiv.org/abs/1908.04626).
 - **Fall 2019:** I am a TA for [CS 7643 Deep Learning](https://www.cc.gatech.edu/classes/AY2020/cs7643_fall/) taught by Dhruv Batra.
 - **Summer 2019:** I am a research intern at [Google Medical Brain](https://ai.google/healthcare/), working with Dr. Edward Choi and Gerardo Flores. 
