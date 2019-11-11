@@ -22,4 +22,4 @@ Welcome to my personal site! I am a third-year PhD student in the School of Inte
 
 swiegreffe6[at]gatech[dot]edu
 
-My CV can be found [here]({{ site.url }}/wiegreffe_CV_july_2019.pdf) (last updated 09/30/19)
+My CV can be found [here]({{ site.url }}/website_cv.pdf) (last updated 11/10/19)
