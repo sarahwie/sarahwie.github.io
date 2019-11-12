@@ -7,7 +7,7 @@ Welcome to my personal site! I am a third-year PhD student in the School of Inte
 ### Updates
 - **Fall 2019:** Slides from my EMNLP talk can be found [here]({{ site.url }}/emnlp19_slides.pdf).
 - **Fall 2019:** New paper accepted to EMNLP 2019: [Attention is not not Explanation](https://arxiv.org/abs/1908.04626).
-- **Fall 2019:** I am a TA for [CS 7643 Deep Learning](https://www.cc.gatech.edu/classes/AY2020/cs7643_fall/) taught by Dhruv Batra.
+- **Fall 2019:** I am a TA for [CS 7643 Deep Learning](https://www.cc.gatech.edu/classes/AY2020/cs7643_fall/) taught by Dhruv Batra. Slides from my guest lecture are [here](https://www.cc.gatech.edu/classes/AY2020/cs7643_fall/slides/L16_attention_transformers.pdf).
 - **Summer 2019:** I am a research intern at [Google Medical Brain](https://ai.google/healthcare/), working with Dr. Edward Choi and Gerardo Flores. 
 - **Summer 2019:** Paper accepted at the ACL BioNLP 2019 workshop: [Clinical Concept Extraction for Document-Level Coding](https://arxiv.org/abs/1906.03380)
 - **Spring 2019:** I passed my qualifying exam! (in intelligent systems: machine learning and NLP subareas)
