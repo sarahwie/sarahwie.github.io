@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome to my personal site! I am a third-year PhD student in the School of Interactive Computing at Georgia Tech, studying computer science. My research interest is in natural language processing and machine learning, with a focus on healthcare applications. 
+Welcome to my personal site! I am a third-year PhD student in the School of Interactive Computing at Georgia Tech, studying computer science. My research interest is in natural language processing and machine learning, with a focus on interpretability, fairness and robustness.
  
 ### Updates
 - **Fall 2019:** Slides from my EMNLP talk can be found [here]({{ site.url }}/emnlp19_slides.pdf).
@@ -24,3 +24,5 @@ Welcome to my personal site! I am a third-year PhD student in the School of Inte
 swiegreffe6[at]gatech[dot]edu
 
 My CV can be found [here]({{ site.url }}/website_cv.pdf) (last updated 11/10/19)
+
+[How to pronounce my last name](https://translate.google.com/#view=home&op=translate&sl=de&tl=en&text=wiegreffe)
