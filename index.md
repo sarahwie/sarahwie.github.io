@@ -25,4 +25,4 @@ swiegreffe6[at]gatech[dot]edu
 
 My CV can be found [here]({{ site.url }}/website_cv.pdf) (last updated 11/10/19)
 
-[How to pronounce my last name](https://translate.google.com/#view=home&op=translate&sl=de&tl=en&text=wiegreffe)
+[How to pronounce my last name](https://translate.google.com/#view=home&op=translate&sl=de&tl=en&text=wiegreffe) (click on German left-side audio)
