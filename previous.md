@@ -4,7 +4,7 @@ title: Conference Publications
 permalink: /previous/
 ---
 
-**Wiegreffe, S.** and Pinter, Y. (equal contribution). *Attention is not not Explanation*. EMNLP 2019. **Oral presentation**. [PDF](https://arxiv.org/abs/1908.04626), [code](https://github.com/sarahwie/attention), [talk slides]({{ site.url }}/emnlp19_slides.pdf), [Medium post](https://medium.com/@yuvalpinter/attention-is-not-not-explanation-dbc25b534017), [poster]({{ site.url }}/wiml2019_poster.pdf)
+**Wiegreffe, S.** and Pinter, Y. (equal contribution). *Attention is not not Explanation*. EMNLP 2019. **Oral presentation**. [PDF](https://www.aclweb.org/anthology/D19-1002/), [code](https://github.com/sarahwie/attention), [talk slides]({{ site.url }}/emnlp19_slides.pdf), [Medium post](https://medium.com/@yuvalpinter/attention-is-not-not-explanation-dbc25b534017), [poster]({{ site.url }}/wiml2019_poster.pdf)
 
 
 Mullenbach, J., **Wiegreffe, S.**, Duke, J., Sun, J. and Eisenstein, J. *Explainable Prediction of Medical Codes from Clinical Text*. NAACL 2018. **Oral presentation**. [PDF](https://www.aclweb.org/anthology/N18-1100), [code](https://github.com/jamesmullenbach/caml-mimic), [talk slides (Google Drive)](https://docs.google.com/presentation/d/1UcUpFK9GyNCBZwqdh3nz1oLTZSmt_jMPKFhvbHbFpxM/edit?usp=sharing)
