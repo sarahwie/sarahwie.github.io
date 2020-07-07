@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome to my personal site! I am a third-year PhD student in the School of Interactive Computing at Georgia Tech, studying computer science. My research interest is in natural language processing and machine learning, with a focus on interpretability, fairness and robustness.
+Welcome to my personal site! I am a third-year computer science PhD student at Georgia Tech, advised by Prof. [Mark Reidl](http://eilab.gatech.edu/mark-riedl). My research interest is in natural language processing and machine learning, with a focus on interpretability, fairness and robustness.
  
 ### Updates
 - **Summer 2020:** [Paper](https://www.aclweb.org/anthology/2020.acl-main.409.pdf) at ACL 2020 with collaborators at Northeastern University.
@@ -23,8 +23,10 @@ Welcome to my personal site! I am a third-year PhD student in the School of Inte
 
 ### Contact me
 
-swiegreffe6[at]gatech[dot]edu
+[Twitter](https://twitter.com/sarahwiegreffe)
 
-My CV can be found [here]({{ site.url }}/website_cv.pdf) (last updated 11/10/19)
+Email: swiegreffe6[at]gatech[dot]edu
+
+[CV]({{ site.url }}/website_cv.pdf) (last updated 11/10/19)
 
 [How to pronounce my last name](https://translate.google.com/#view=home&op=translate&sl=de&tl=en&text=wiegreffe) (click on German left-side audio)
