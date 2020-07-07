@@ -13,7 +13,7 @@ permalink: /press/
 
 # Blogs
 
-[Explaining Machine Learning Models for Natural Language](https://mlatgt.blog/2020/03/25/explaining-machine-learning-models-for-natural-language/) (ML@GT Blog; nontechnical)
+[Explaining Machine Learning Models for Natural Language](https://mlatgt.blog/2020/03/25/explaining-machine-learning-models-for-natural-language/)
 
 # Older
 
