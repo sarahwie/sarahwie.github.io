@@ -7,7 +7,7 @@ permalink: /previous/
 Jain, S., **Wiegreffe, S.**, Pinter, Y. and Wallace, B. *Learning to Faithfully Rationalize by Construction*. ACL 2020. [PDF](https://www.aclweb.org/anthology/2020.acl-main.409.pdf), [code](https://github.com/successar/FRESH)
 
 
-**Wiegreffe, S.** and Pinter, Y. (equal contribution). *Attention is not not Explanation*. EMNLP 2019. **Oral presentation**. [PDF](https://www.aclweb.org/anthology/D19-1002/), [code](https://github.com/sarahwie/attention), [recorded talk](https://vimeo.com/404731845), [talk slides]({{ site.url }}/emnlp19_slides.pdf)
+**Wiegreffe, S.** and Pinter, Y. (equal contribution). *Attention is not not Explanation*. EMNLP 2019. **Oral presentation**. [PDF](https://www.aclweb.org/anthology/D19-1002/), [code](https://github.com/sarahwie/attention), [recorded talk](https://vimeo.com/404731845), [talk slides]({{ site.url }}/emnlp19_slides.pdf), [non-technical blogpost](https://mlatgt.blog/2020/03/25/explaining-machine-learning-models-for-natural-language/)
 
 
 Mullenbach, J., **Wiegreffe, S.**, Duke, J., Sun, J. and Eisenstein, J. *Explainable Prediction of Medical Codes from Clinical Text*. NAACL 2018. **Oral presentation**. [PDF](https://www.aclweb.org/anthology/N18-1100), [code](https://github.com/jamesmullenbach/caml-mimic), [talk slides (Google Drive)](https://docs.google.com/presentation/d/1UcUpFK9GyNCBZwqdh3nz1oLTZSmt_jMPKFhvbHbFpxM/edit?usp=sharing)
