@@ -14,7 +14,7 @@ James Mullenbach, **Sarah Wiegreffe**, Jon Duke, Jimeng Sun, Jacob Eisenstein. *
 
 # Non-Archival (workshops, preprints)
 
-**Sarah Wiegreffe**, Ana Marasovi\'{c}, Noah A. Smith. *Measuring Association Between Labels and Free-Text Rationales*. ArXiv preprint. 2020.
+**Sarah Wiegreffe**, Ana Marasović, Noah A. Smith. *Measuring Association Between Labels and Free-Text Rationales*. ArXiv preprint. 2020.
 
 **Sarah Wiegreffe**, Gerardo Flores, Edward Choi, Andrew Dai. *Learning Bi-Directional Clinical Event Representations: A Comparison of Architectures*. Preprint (available upon request). 2019. 
 
