@@ -7,7 +7,7 @@ Welcome to my personal site! I am a fourth-year computer science PhD student at 
 **I am looking for funded summer research opportunities on NLP + interpretability.**
  
 ### Updates
-- **Fall 2020:** New [preprint](https://arxiv.org/abs/2010.12762) from my AI2 internship on quantifying faithfulness of free-text rationales.
+- **Fall 2020:** New [preprint](https://arxiv.org/abs/2010.12762) on quantifying faithfulness of free-text rationales.
 - **Summer and Fall 2020:** I will be a research intern at the [Allen Institute for AI](https://allenai.org/), working with Noah Smith and Ana Marasović. 
 - **Summer 2020:** [Paper](https://www.aclweb.org/anthology/2020.acl-main.409.pdf) at ACL 2020 with collaborators at Northeastern University.
 - **Spring 2020:** Gave a [(recorded) talk](https://bluejeans.com/s/NqZd0) at the USC/ISI NLP Seminar: "BlackBox NLP: What are we looking for, and where do we stand?".
