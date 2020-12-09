@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Welcome to my personal site! I am a fourth-year computer science PhD student at Georgia Tech, advised by Prof. [Mark Reidl](http://eilab.gatech.edu/mark-riedl). My research interest is in natural language processing and machine learning, with a focus on interpretability, fairness and robustness.
+Welcome to my personal site! I am a fourth-year computer science PhD student at Georgia Tech, advised by Prof. [Mark Reidl](http://eilab.gatech.edu/mark-riedl). My research interest is in natural language processing and machine learning, with a focus on interpretability, fairness and robustness.mmer 
+
+**I am looking for funded summer research opportunities on NLP + interpretability.**
  
 ### Updates
 - **Fall 2020:** New [preprint](https://arxiv.org/abs/2010.12762) from my AI2 internship on quantifying faithfulness of free-text rationales.
