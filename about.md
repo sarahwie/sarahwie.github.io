@@ -2,11 +2,14 @@
 layout: default
 ---
 
-Welcome to my personal site! I am a third-year computer science PhD student at Georgia Tech, advised by Prof. [Mark Reidl](http://eilab.gatech.edu/mark-riedl). My research interest is in natural language processing and machine learning, with a focus on interpretability, fairness and robustness.
+Welcome to my personal site! I am a fourth-year computer science PhD student at Georgia Tech, advised by Prof. [Mark Reidl](http://eilab.gatech.edu/mark-riedl). My research interest is in natural language processing and machine learning, with a focus on interpretability, fairness and robustness.mmer 
+
+**I am looking for funded summer research opportunities on NLP + interpretability.**
  
 ### Updates
+- **Fall 2020:** New [preprint](https://arxiv.org/abs/2010.12762) from my AI2 internship on quantifying faithfulness of free-text rationales.
+- **Summer and Fall 2020:** I will be a research intern at the [Allen Institute for AI](https://allenai.org/), working with Noah Smith and Ana Marasović. 
 - **Summer 2020:** [Paper](https://www.aclweb.org/anthology/2020.acl-main.409.pdf) at ACL 2020 with collaborators at Northeastern University.
-- **Summer 2020:** I will be a research intern at the [Allen Institute for AI](https://allenai.org/), working with Noah Smith and Ana Marasović. 
 - **Spring 2020:** Gave a [(recorded) talk](https://bluejeans.com/s/NqZd0) at the USC/ISI NLP Seminar: "BlackBox NLP: What are we looking for, and where do we stand?".
 - **Fall 2019:** Presented a [poster]({{ site.url }}/wiml2019_poster.pdf) at [WiML 2019](https://wimlworkshop.org/2019/).  
 - **Fall 2019:** Paper accepted to EMNLP 2019: [Attention is not not Explanation](https://arxiv.org/abs/1908.04626). Slides from my talk can be found [here]({{ site.url }}/emnlp19_slides.pdf).
@@ -27,6 +30,6 @@ Welcome to my personal site! I am a third-year computer science PhD student at G
 
 Email: swiegreffe6[at]gatech[dot]edu
 
-[CV]({{ site.url }}/website_cv.pdf) (last updated 11/10/19)
+[CV]({{ site.url }}/website_cv.pdf) (last updated 12/09/20)
 
 [How to pronounce my last name](https://translate.google.com/#view=home&op=translate&sl=de&tl=en&text=wiegreffe) (click on German left-side audio)
