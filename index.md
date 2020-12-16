@@ -8,7 +8,7 @@ Welcome to my personal site! I am a fourth-year computer science PhD student at 
  
 ### Updates
 - **Fall 2020:** New [preprint](https://arxiv.org/abs/2010.12762) on quantifying faithfulness of free-text rationales.
-- **Summer and Fall 2020:** I was a research intern at the [Allen Institute for AI](https://allenai.org/), working with Noah Smith and Ana Marasović. **Awarded the [AI2 Outstanding Intern](https://allenai.org/outstanding-interns) award!**
+- **Summer and Fall 2020:** I was a research intern at the [Allen Institute for AI](https://allenai.org/), working with Noah Smith and Ana Marasović. Awarded the [AI2 Outstanding Intern](https://allenai.org/outstanding-interns) award!
 - **Summer 2020:** [Paper](https://www.aclweb.org/anthology/2020.acl-main.409.pdf) at ACL 2020 with collaborators at Northeastern University.
 - **Spring 2020:** Gave a [(recorded) talk](https://bluejeans.com/s/NqZd0) at the USC/ISI NLP Seminar: "BlackBox NLP: What are we looking for, and where do we stand?".
 - **Fall 2019:** Presented a [poster]({{ site.url }}/wiml2019_poster.pdf) at [WiML 2019](https://wimlworkshop.org/2019/).  
