@@ -2,9 +2,15 @@
 layout: default
 ---
 
-Welcome to my personal site! I am a fourth-year computer science PhD student at Georgia Tech, advised by Prof. [Mark Reidl](http://eilab.gatech.edu/mark-riedl). My research interest is in natural language processing and machine learning, with a focus on interpretability, fairness and robustness.
+Welcome to my personal site! I am a fourth-year computer science PhD student at Georgia Tech, advised by Prof. [Mark Reidl](http://eilab.gatech.edu/mark-riedl). 
+
+My research interest is interpretability methods for deep learning applied to natural language processing (NLP). This encompasses three threads: 
+- defining and standardizing terminology, desiderata, and evaluation methods;
+- understanding the strengths and weaknesses of existing models within this framework; and
+- designing architectures which address these weaknesses.
  
 ### Updates
+- **Summer 2021:** I am returning to AI2 to intern on the [Mosaic](https://mosaic.allenai.org/) team, working with Swabha Swayamdipta, Jack Hessel, and Yejin Choi.
 - **Fall 2020:** New [preprint](https://arxiv.org/abs/2010.12762) on quantifying faithfulness of free-text rationales.
 - **Summer and Fall 2020:** I was a research intern at the [Allen Institute for AI](https://allenai.org/), working with Noah Smith and Ana Marasović. Awarded the [AI2 Outstanding Intern](https://allenai.org/outstanding-interns) award!
 - **Summer 2020:** [Paper](https://www.aclweb.org/anthology/2020.acl-main.409.pdf) at ACL 2020 with collaborators at Northeastern University.
