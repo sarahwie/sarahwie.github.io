@@ -11,12 +11,15 @@ My research interest is interpretability methods for deep learning applied to na
  
 ### Updates
 - **Summer 2021:** I am returning to AI2 to intern on the [Mosaic](https://mosaic.allenai.org/) team, working with Swabha Swayamdipta, Jack Hessel, and Yejin Choi.
+- **Spring 2021:** New [preprint](https://arxiv.org/abs/2102.12060) and [companion website](https://exnlpdatasets.github.io/): a survey on explainable NLP datasets.
+- **Spring 2021:** I gave a talk at [NLP with Friends](https://nlpwithfriends.com/speakers/sarah-wiegreffe).
+- **Spring 2021:** I am a TA for [CS 7643 Deep Learning](https://www.cc.gatech.edu/classes/AY2021/cs7643_spring/).
 - **Fall 2020:** New [preprint](https://arxiv.org/abs/2010.12762) on quantifying faithfulness of free-text rationales.
 - **Summer and Fall 2020:** I was a research intern at the [Allen Institute for AI](https://allenai.org/), working with Noah Smith and Ana Marasović. Awarded the [AI2 Outstanding Intern](https://allenai.org/outstanding-interns) award!
 - **Summer 2020:** [Paper](https://www.aclweb.org/anthology/2020.acl-main.409.pdf) at ACL 2020 with collaborators at Northeastern University.
 - **Spring 2020:** Gave a [(recorded) talk](https://bluejeans.com/s/NqZd0) at the USC/ISI NLP Seminar: "BlackBox NLP: What are we looking for, and where do we stand?".
 - **Fall 2019:** Presented a [poster]({{ site.url }}/wiml2019_poster.pdf) at [WiML 2019](https://wimlworkshop.org/2019/).  
-- **Fall 2019:** Paper accepted to EMNLP 2019: [Attention is not not Explanation](https://arxiv.org/abs/1908.04626). Slides from my talk can be found [here]({{ site.url }}/emnlp19_slides.pdf).
+- **Fall 2019:** Paper accepted to EMNLP 2019: [Attention is not not Explanation](https://arxiv.org/abs/1908.04626). Recorded talk [here](https://vimeo.com/404731845).
 - **Fall 2019:** I am a TA for [CS 7643 Deep Learning](https://www.cc.gatech.edu/classes/AY2020/cs7643_fall/) taught by Dhruv Batra. Slides from my guest lecture are [here](https://www.cc.gatech.edu/classes/AY2020/cs7643_fall/slides/L16_attention_transformers.pdf).
 - **Summer 2019:** I am a research intern at [Google Medical Brain](https://ai.google/healthcare/), working with Dr. Edward Choi and Gerardo Flores. 
 - **Summer 2019:** Paper accepted at the ACL BioNLP 2019 workshop: [Clinical Concept Extraction for Document-Level Coding](https://arxiv.org/abs/1906.03380)
