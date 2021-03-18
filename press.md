@@ -3,9 +3,11 @@ layout: page
 title: Talks
 permalink: /press/
 ---
-[BlackBox NLP: What are we looking for, and where do we stand?](https://bluejeans.com/playback/s/UeELuzcJ8hmhs8YSCjq07WOJY3JCXnkmEnwgWHnde3FLyR4qrQhJcWUyjxV7xIg2) (USC/ISI Jan. 2020)
+[Measuring Association Between Labels and Free-Text Rationales](https://www.youtube.com/watch?v=1zNFaNuASuc) (NLP with Friends Seminar, Feb. 2021)
 
-[Attention is not not Explanation](https://vimeo.com/404731845) (EMNLP 2019)
+[BlackBox NLP: What are we looking for, and where do we stand?](https://bluejeans.com/playback/s/UeELuzcJ8hmhs8YSCjq07WOJY3JCXnkmEnwgWHnde3FLyR4qrQhJcWUyjxV7xIg2) (USC/ISI NLP Seminar, Jan. 2020)
+
+[Attention is not not Explanation](https://vimeo.com/404731845) (EMNLP, Nov. 2019)
 
 # Teaching 
 

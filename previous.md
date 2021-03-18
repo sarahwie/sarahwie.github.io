@@ -8,7 +8,7 @@ permalink: /previous/
 
 Xiangyu Peng, Siyan Li, **Sarah Wiegreffe**, Mark Riedl. *Augmented Neural Story Generation with Commonsense Inference*. 2021. In submission.
 
-**Sarah Wiegreffe**, Ana Marasović, Noah A. Smith. *Measuring Association Between Labels and Free-Text Rationales*. ArXiv preprint. 2020. [PDF](https://arxiv.org/abs/2010.12762), [code](https://github.com/allenai/label_rationale_association)
+**Sarah Wiegreffe**, Ana Marasović, Noah A. Smith. *Measuring Association Between Labels and Free-Text Rationales*. ArXiv preprint. 2020. [PDF](https://arxiv.org/abs/2010.12762), [code](https://github.com/allenai/label_rationale_association), [recorded talk](https://www.youtube.com/watch?v=1zNFaNuASuc)
 
 Sarthak Jain, **Sarah Wiegreffe**, Yuval Pinter, Byron Wallace. *Learning to Faithfully Rationalize by Construction*. ACL 2020. [PDF](https://www.aclweb.org/anthology/2020.acl-main.409/), [recorded talk](https://slideslive.com/38929220/learning-to-faithfully-rationalize-by-construction), [code](https://github.com/successar/FRESH)
 
