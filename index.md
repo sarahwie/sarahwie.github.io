@@ -12,7 +12,7 @@ My research interest is interpretability methods for deep learning applied to na
 ### Updates
 - **Summer 2021:** I am returning to AI2 to intern on the [Mosaic](https://mosaic.allenai.org/) team, working with Swabha Swayamdipta, Jack Hessel, and Yejin Choi.
 - **Spring 2021:** New [preprint](https://arxiv.org/abs/2102.12060) and [companion website](https://exnlpdatasets.github.io/): a survey on explainable NLP datasets.
-- **Spring 2021:** I gave a talk at [NLP with Friends](https://nlpwithfriends.com/speakers/sarah-wiegreffe).
+- **Spring 2021:** I gave a [(recorded) talk](https://www.youtube.com/watch?v=1zNFaNuASuc) at NLP with Friends.
 - **Spring 2021:** I am a TA for [CS 7643 Deep Learning](https://www.cc.gatech.edu/classes/AY2021/cs7643_spring/).
 - **Fall 2020:** New [preprint](https://arxiv.org/abs/2010.12762) on quantifying faithfulness of free-text rationales.
 - **Summer and Fall 2020:** I was a research intern at the [Allen Institute for AI](https://allenai.org/), working with Noah Smith and Ana Marasović. Awarded the [AI2 Outstanding Intern](https://allenai.org/outstanding-interns) award!
