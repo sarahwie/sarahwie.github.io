@@ -4,7 +4,7 @@ title: Publications and Preprints
 permalink: /previous/
 ---
 
-Xiangyu Peng, Siyan Li, **Sarah Wiegreffe**, Mark Riedl. *Inferring the Reader: Augmented Neural Story Generation with Commonsense Inference*. Narrative Understanding Workshop at NAACL 2021. [PDF](https://arxiv.org/abs/2105.01311)
+Xiangyu Peng, Siyan Li, **Sarah Wiegreffe**, Mark Riedl. *Inferring the Reader: Guiding Automated Story Generation with Commonsense Reasoning*. Narrative Understanding Workshop at NAACL 2021. [PDF](https://arxiv.org/abs/2105.01311)
 
 **Sarah Wiegreffe** and Ana Marasović (equal contribution). *Teach Me to Explain: A Review of Datasets for Explainable NLP*. ArXiv preprint. 2021. [PDF](https://arxiv.org/abs/2102.12060), [companion website](https://exnlpdatasets.github.io/)
 
