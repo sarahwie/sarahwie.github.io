@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome to my personal site! I am a fourth-year computer science PhD student at Georgia Tech, advised by Prof. [Mark Reidl](http://eilab.gatech.edu/mark-riedl). 
+Welcome to my personal site! I am a fourth-year computer science PhD student at Georgia Tech, advised by Prof. [Mark Reidl](https://eilab-gt.github.io). 
 
 My research interest is interpretability methods for deep learning applied to natural language processing (NLP). This encompasses three threads: 
 - defining and standardizing terminology, desiderata, and evaluation methods;
@@ -11,6 +11,7 @@ My research interest is interpretability methods for deep learning applied to na
  
 ### Updates
 - **Summer 2021:** I am returning to AI2 to intern on the [Mosaic](https://mosaic.allenai.org/) team, working with Swabha Swayamdipta, Jack Hessel, and Yejin Choi.
+- **Spring-Summer 2021:** Publicity Co-Chair for [NAACL 2021](https://2021.naacl.org). Checkout our social initiative [People of Natural Language Processing](https://peopleofnlproc.github.io); follow us on Twitter ([@NAACLHLT](https://twitter.com/naaclhlt?lang=en)) and Weibo (@国际计算语言学年会ACL2021).
 - **Spring 2021:** New [preprint](https://arxiv.org/abs/2102.12060) and [companion website](https://exnlpdatasets.github.io/): a survey on explainable NLP datasets.
 - **Spring 2021:** I gave a [(recorded) talk](https://www.youtube.com/watch?v=1zNFaNuASuc) at NLP with Friends.
 - **Spring 2021:** I am a TA for [CS 7643 Deep Learning](https://www.cc.gatech.edu/classes/AY2021/cs7643_spring/).
