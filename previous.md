@@ -4,9 +4,9 @@ title: Publications and Preprints
 permalink: /previous/
 ---
 
-Xiangyu Peng, Siyan Li, **Sarah Wiegreffe**, Mark Riedl. *Inferring the Reader: Guiding Automated Story Generation with Commonsense Reasoning*. Narrative Understanding Workshop at NAACL 2021. [PDF](https://arxiv.org/abs/2105.01311)
+**Sarah Wiegreffe** and Ana Marasović (equal contribution). *Teach Me to Explain: A Review of Datasets for Explainable Natural Language Processing*. NeurIPS 2021. [PDF (camera-ready coming soon)](https://arxiv.org/abs/2102.12060), [companion website](https://exnlpdatasets.github.io/)
 
-**Sarah Wiegreffe** and Ana Marasović (equal contribution). *Teach Me to Explain: A Review of Datasets for Explainable NLP*. ArXiv preprint. 2021. [PDF](https://arxiv.org/abs/2102.12060), [companion website](https://exnlpdatasets.github.io/)
+Xiangyu Peng, Siyan Li, **Sarah Wiegreffe**, Mark Riedl. *Inferring the Reader: Guiding Automated Story Generation with Commonsense Reasoning*. Narrative Understanding Workshop at NAACL 2021. [PDF](https://arxiv.org/abs/2105.01311)
 
 **Sarah Wiegreffe**, Ana Marasović, Noah A. Smith. *Measuring Association Between Labels and Free-Text Rationales*. ArXiv preprint. 2020. [PDF](https://arxiv.org/abs/2010.12762), [code](https://github.com/allenai/label_rationale_association), [recorded talk](https://www.youtube.com/watch?v=1zNFaNuASuc)
 
