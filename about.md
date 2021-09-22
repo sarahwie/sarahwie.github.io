@@ -11,14 +11,13 @@ My research interest is interpretability methods for deep learning applied to na
  
 ### Updates
 - **Fall 2021:** [Paper](https://arxiv.org/abs/2010.12762) accepted to EMNLP 2021.
+- **Fall 2021:** [Paper](https://arxiv.org/abs/2102.12060) and [companion website](https://exnlpdatasets.github.io/)-- a survey on explainable NLP datasets-- accepted to NeurIPS 2021 Datasets & Benchmarks.
 - **Fall 2021:** I am a TA for [CS 7650 Natural Language Processing](https://cocoxu.github.io/CS7650_fall2021/).
 - **Summer 2021:** I am returning to AI2 to intern on the [Mosaic](https://mosaic.allenai.org/) team, working with Swabha Swayamdipta, Jack Hessel, and Yejin Choi.
 - **Summer 2021:** [Paper](https://arxiv.org/abs/2105.01311) at NAACL 2021 Narrative Understanding workshop.
 - **Spring-Summer 2021:** Publicity Co-Chair for [NAACL 2021](https://2021.naacl.org). Checkout our social initiative [People of Natural Language Processing](https://peopleofnlproc.github.io); follow us on Twitter ([@NAACLHLT](https://twitter.com/naaclhlt?lang=en)) and Weibo (@国际计算语言学年会ACL2021).
-- **Spring 2021:** New [paper](https://arxiv.org/abs/2102.12060) and [companion website](https://exnlpdatasets.github.io/): a survey on explainable NLP datasets. **To appear at NeurIPS 2021 Datasets & Benchmarks**.
 - **Spring 2021:** I gave a [(recorded) talk](https://www.youtube.com/watch?v=1zNFaNuASuc) at NLP with Friends.
 - **Spring 2021:** I am a TA for [CS 7643 Deep Learning](https://www.cc.gatech.edu/classes/AY2021/cs7643_spring/).
-- **Fall 2020:** New [preprint](https://arxiv.org/abs/2010.12762) on quantifying faithfulness of free-text rationales.
 - **Summer and Fall 2020:** I was a research intern at the [Allen Institute for AI](https://allenai.org/), working with Noah Smith and Ana Marasović. Awarded the [AI2 Outstanding Intern](https://allenai.org/outstanding-interns) award!
 - **Summer 2020:** [Paper](https://www.aclweb.org/anthology/2020.acl-main.409.pdf) at ACL 2020 with collaborators at Northeastern University.
 - **Spring 2020:** Gave a [(recorded) talk](https://bluejeans.com/s/NqZd0) at the USC/ISI NLP Seminar: "BlackBox NLP: What are we looking for, and where do we stand?".
