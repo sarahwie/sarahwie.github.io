@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome to my personal site! I am a final-year computer science PhD student at Georgia Tech, advised by Prof. [Mark Reidl](https://eilab-gt.github.io). 
+Welcome to my personal site! I am a final-year computer science PhD student at Georgia Tech, advised by Prof. [Mark Riedl](https://eilab-gt.github.io). 
 
 My research interest is interpretability methods for deep learning applied to natural language processing (NLP). This encompasses three threads: 
 - defining and standardizing terminology, desiderata, and evaluation methods;
