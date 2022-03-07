@@ -4,7 +4,7 @@ title: Publications and Preprints
 permalink: /previous/
 ---
 
-**Sarah Wiegreffe**, Jack Hessel, Swabha Swayamdipta, Mark Riedl, Yejin Choi. *Reframing Human-AI Collaboration for Generating Free-Text Explanations*. Preprint, 2021. [PDF](https://arxiv.org/abs/2112.08674)
+**Sarah Wiegreffe**, Jack Hessel, Swabha Swayamdipta, Mark Riedl, Yejin Choi. *Reframing Human-AI Collaboration for Generating Free-Text Explanations*. Preprint, 2021. [PDF](https://arxiv.org/abs/2112.08674), [code (coming soon)](https://github.com/allenai/few_shot_explanations/)
 
 **Sarah Wiegreffe** and Ana Marasović (equal contribution). *Teach Me to Explain: A Review of Datasets for Explainable Natural Language Processing*. NeurIPS 2021 Datasets and Benchmarks. [PDF](https://arxiv.org/abs/2102.12060), [companion website](https://exnlpdatasets.github.io/), [conference video](https://slideslive.com/38969466/teach-me-to-explain-a-review-of-datasets-for-explainable-natural-language-processing?ref=speaker-34108-latest).
 
@@ -12,9 +12,9 @@ permalink: /previous/
 
 Xiangyu Peng, Siyan Li, **Sarah Wiegreffe**, Mark Riedl. *Inferring the Reader: Guiding Automated Story Generation with Commonsense Reasoning*. Narrative Understanding Workshop at NAACL 2021. [PDF](https://arxiv.org/abs/2105.01311)
 
-Sarthak Jain, **Sarah Wiegreffe**, Yuval Pinter, Byron Wallace. *Learning to Faithfully Rationalize by Construction*. ACL 2020. [PDF](https://www.aclweb.org/anthology/2020.acl-main.409/), [recorded talk](https://slideslive.com/38929220/learning-to-faithfully-rationalize-by-construction), [code](https://github.com/successar/FRESH)
+Sarthak Jain, **Sarah Wiegreffe**, Yuval Pinter, Byron Wallace. *Learning to Faithfully Rationalize by Construction*. ACL 2020. [PDF](https://www.aclweb.org/anthology/2020.acl-main.409/), [code](https://github.com/successar/FRESH), [conference video](https://slideslive.com/38929220/learning-to-faithfully-rationalize-by-construction)
 
-**Sarah Wiegreffe** and Yuval Pinter (equal contribution). *Attention is not not Explanation*. EMNLP 2019. **Oral presentation**. [PDF](https://www.aclweb.org/anthology/D19-1002/), [code](https://github.com/sarahwie/attention), [recorded talk](https://vimeo.com/404731845), [talk slides]({{ site.url }}/emnlp19_slides.pdf), [non-technical blogpost](https://mlatgt.blog/2020/03/25/explaining-machine-learning-models-for-natural-language/)
+**Sarah Wiegreffe** and Yuval Pinter (equal contribution). *Attention is not not Explanation*. EMNLP 2019. **Oral presentation**. [PDF](https://www.aclweb.org/anthology/D19-1002/), [code](https://github.com/sarahwie/attention), [conference talk](https://vimeo.com/404731845), [talk slides]({{ site.url }}/emnlp19_slides.pdf), [non-technical blogpost](https://mlatgt.blog/2020/03/25/explaining-machine-learning-models-for-natural-language/)
 
 **Sarah Wiegreffe**, Gerardo Flores, Edward Choi, Andrew Dai. *Learning Bi-Directional Clinical Event Representations: A Comparison of Architectures*. Preprint (available upon request). 2019. 
 
