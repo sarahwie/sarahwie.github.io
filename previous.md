@@ -6,9 +6,9 @@ permalink: /previous/
 
 **Sarah Wiegreffe**, Jack Hessel, Swabha Swayamdipta, Mark Riedl, Yejin Choi. *Reframing Human-AI Collaboration for Generating Free-Text Explanations*. Preprint, 2021. [PDF](https://arxiv.org/abs/2112.08674)
 
-**Sarah Wiegreffe** and Ana Marasović (equal contribution). *Teach Me to Explain: A Review of Datasets for Explainable Natural Language Processing*. NeurIPS 2021 Datasets and Benchmarks. [PDF (camera-ready coming soon)](https://openreview.net/pdf?id=ogNcxJn32BZ), [PDF (longer version)](https://arxiv.org/abs/2102.12060), [companion website](https://exnlpdatasets.github.io/)
+**Sarah Wiegreffe** and Ana Marasović (equal contribution). *Teach Me to Explain: A Review of Datasets for Explainable Natural Language Processing*. NeurIPS 2021 Datasets and Benchmarks. [PDF](https://arxiv.org/abs/2102.12060), [companion website](https://exnlpdatasets.github.io/), [conference video](https://slideslive.com/38969466/teach-me-to-explain-a-review-of-datasets-for-explainable-natural-language-processing?ref=speaker-34108-latest).
 
-**Sarah Wiegreffe**, Ana Marasović, Noah A. Smith. *Measuring Association Between Labels and Free-Text Rationales*. EMNLP 2021. [PDF](https://arxiv.org/abs/2010.12762), [code](https://github.com/allenai/label_rationale_association), [recorded talk (on older version of work)](https://www.youtube.com/watch?v=1zNFaNuASuc)
+**Sarah Wiegreffe**, Ana Marasović, Noah A. Smith. *Measuring Association Between Labels and Free-Text Rationales*. EMNLP 2021. [PDF](https://arxiv.org/abs/2010.12762), [code](https://github.com/allenai/label_rationale_association), [conference video](https://www.youtube.com/watch?v=faEWYzEfTGQ)
 
 Xiangyu Peng, Siyan Li, **Sarah Wiegreffe**, Mark Riedl. *Inferring the Reader: Guiding Automated Story Generation with Commonsense Reasoning*. Narrative Understanding Workshop at NAACL 2021. [PDF](https://arxiv.org/abs/2105.01311)
 
