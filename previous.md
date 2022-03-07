@@ -4,6 +4,8 @@ title: Publications and Preprints
 permalink: /previous/
 ---
 
+**Sarah Wiegreffe**, Jack Hessel, Swabha Swayamdipta, Mark Riedl, Yejin Choi. *Reframing Human-AI Collaboration for Generating Free-Text Explanations*. Preprint, 2021. [PDF](https://arxiv.org/abs/2112.08674)
+
 **Sarah Wiegreffe** and Ana Marasović (equal contribution). *Teach Me to Explain: A Review of Datasets for Explainable Natural Language Processing*. NeurIPS 2021 Datasets and Benchmarks. [PDF (camera-ready coming soon)](https://openreview.net/pdf?id=ogNcxJn32BZ), [PDF (longer version)](https://arxiv.org/abs/2102.12060), [companion website](https://exnlpdatasets.github.io/)
 
 **Sarah Wiegreffe**, Ana Marasović, Noah A. Smith. *Measuring Association Between Labels and Free-Text Rationales*. EMNLP 2021. [PDF](https://arxiv.org/abs/2010.12762), [code](https://github.com/allenai/label_rationale_association), [recorded talk (on older version of work)](https://www.youtube.com/watch?v=1zNFaNuASuc)
