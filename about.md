@@ -10,8 +10,9 @@ My research interest is interpretability methods for deep learning applied to na
 - designing architectures which address these weaknesses.
  
 ### Updates
-- **Fall 2021:** [Paper](https://arxiv.org/abs/2010.12762) accepted to EMNLP 2021.
+- **Spring 2022:** [Preprint](https://arxiv.org/abs/2112.08674) with the Mosaic team at AI2 on generating few-shot free-text explanations.
 - **Fall 2021:** [Paper](https://arxiv.org/abs/2102.12060) and [companion website](https://exnlpdatasets.github.io/)-- a survey on explainable NLP datasets-- accepted to NeurIPS 2021 Datasets & Benchmarks.
+- **Fall 2021:** [Paper](https://arxiv.org/abs/2010.12762) accepted to EMNLP 2021.
 - **Fall 2021:** I am a TA for [CS 7650 Natural Language Processing](https://cocoxu.github.io/CS7650_fall2021/).
 - **Summer 2021:** I am returning to AI2 to intern on the [Mosaic](https://mosaic.allenai.org/) team, working with Swabha Swayamdipta, Jack Hessel, and Yejin Choi.
 - **Summer 2021:** [Paper](https://arxiv.org/abs/2105.01311) at NAACL 2021 Narrative Understanding workshop.
@@ -40,6 +41,6 @@ My research interest is interpretability methods for deep learning applied to na
 
 Email: swiegreffe6[at]gatech[dot]edu
 
-[CV]({{ site.url }}/website_cv.pdf) (last updated 12/09/20)
+[CV]({{ site.url }}/website_cv.pdf) (last updated 03/07/22)
 
 [How to pronounce my last name](https://translate.google.com/#view=home&op=translate&sl=de&tl=en&text=wiegreffe) (click on German left-side audio)
