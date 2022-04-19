@@ -10,6 +10,7 @@ My research interest is interpretability methods for deep learning applied to na
 - designing architectures which address these weaknesses.
  
 ### Updates
+- **Spring 2022:** Giving a talk at the Oxford NLP reading group.
 - **Spring 2022:** [Paper](https://arxiv.org/abs/2112.08674) with the Mosaic team at AI2 on generating few-shot free-text explanations accepted to NAACL 2022. Camera-ready coming soon.
 - **Fall 2021:** I passed my PhD dissertation proposal!
 - **Fall 2021:** [Paper](https://arxiv.org/abs/2102.12060) and [companion website](https://exnlpdatasets.github.io/)-- a survey on explainable NLP datasets-- accepted to NeurIPS 2021 Datasets & Benchmarks.
