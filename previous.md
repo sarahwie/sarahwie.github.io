@@ -4,7 +4,7 @@ title: Publications and Preprints
 permalink: /previous/
 ---
 
-**Sarah Wiegreffe**, Jack Hessel, Swabha Swayamdipta, Mark Riedl, Yejin Choi. *Reframing Human-AI Collaboration for Generating Free-Text Explanations*. Preprint, 2021. [PDF](https://arxiv.org/abs/2112.08674), [code (coming soon)](https://github.com/allenai/few_shot_explanations/)
+**Sarah Wiegreffe**, Jack Hessel, Swabha Swayamdipta, Mark Riedl, Yejin Choi. *Reframing Human-AI Collaboration for Generating Free-Text Explanations*. NAACL 2022. [PDF (camera-ready coming soon)](https://arxiv.org/abs/2112.08674), [code (coming soon)](https://github.com/allenai/few_shot_explanations/)
 
 **Sarah Wiegreffe** and Ana Marasović (equal contribution). *Teach Me to Explain: A Review of Datasets for Explainable Natural Language Processing*. NeurIPS 2021 Datasets and Benchmarks. [PDF](https://arxiv.org/abs/2102.12060), [companion website](https://exnlpdatasets.github.io/), [conference video](https://slideslive.com/38969466/teach-me-to-explain-a-review-of-datasets-for-explainable-natural-language-processing?ref=speaker-34108-latest).
 
