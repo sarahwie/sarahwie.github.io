@@ -10,7 +10,8 @@ My research interest is interpretability methods for deep learning applied to na
 - designing architectures which address these weaknesses.
  
 ### Updates
-- **Spring 2022:** [Preprint](https://arxiv.org/abs/2112.08674) with the Mosaic team at AI2 on generating few-shot free-text explanations.
+- **Spring 2022:** [Paper](https://arxiv.org/abs/2112.08674) with the Mosaic team at AI2 on generating few-shot free-text explanations accepted to NAACL 2022. Camera-ready coming soon.
+- **Fall 2021:** I passed my PhD dissertation proposal!
 - **Fall 2021:** [Paper](https://arxiv.org/abs/2102.12060) and [companion website](https://exnlpdatasets.github.io/)-- a survey on explainable NLP datasets-- accepted to NeurIPS 2021 Datasets & Benchmarks.
 - **Fall 2021:** [Paper](https://arxiv.org/abs/2010.12762) accepted to EMNLP 2021.
 - **Fall 2021:** I am a TA for [CS 7650 Natural Language Processing](https://cocoxu.github.io/CS7650_fall2021/).
