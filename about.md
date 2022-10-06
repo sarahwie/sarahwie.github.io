@@ -2,7 +2,10 @@
 layout: default
 ---
 
-Welcome to my personal site! I am a final-year computer science PhD student at Georgia Tech, advised by Prof. [Mark Riedl](https://eilab-gt.github.io). 
+Welcome to my personal site! I am a postdoctoral researcher at the [Allen Institute for AI](https://allenai.org/), or AI2 for short, working on the [Aristo](https://allenai.org/aristo) project.
+I received my PhD from Georgia Tech in 2022, advised by Prof. [Mark Riedl](https://eilab-gt.github.io).
+
+I am recruiting interns to work with me at AI2. The application is always rolling, but please [apply here](https://boards.greenhouse.io/thealleninstitute/jobs/2171324) by Nov. 1st for summer 2023 consideration! (Please also mention me in your application.)
 
 My research interest is interpretability methods for deep learning applied to natural language processing (NLP). This encompasses three threads: 
 - defining and standardizing terminology, desiderata, and evaluation methods;
@@ -10,8 +13,24 @@ My research interest is interpretability methods for deep learning applied to na
 - designing architectures which address these weaknesses.
  
 ### Updates
+- **Fall 2022**: Co-organizing the BlackBoxNLP workshop at EMNLP 2022.
+- **Fall 2022**: I am an area chair for EMNLP 2022.
+- **Fall 2022**: Started postdoc at AI2.
+- **Summer 2022:** [Paper](https://arxiv.org/abs/2112.08674) on generating few-shot free-text explanations at NAACL 2022.
+- **Summer 2022:** I defended my PhD dissertation!
+
+### Contact me
+
+[Twitter](https://twitter.com/sarahwiegreffe)
+
+Email: wiegreffesarah[at]gmail[dot]com
+
+[CV]({{ site.url }}/website_cv.pdf) (last updated 10/05/22)
+
+[How to pronounce my last name](https://translate.google.com/#view=home&op=translate&sl=de&tl=en&text=wiegreffe) (click on German left-side audio)
+
+### Older Updates
 - **Spring 2022:** Giving a talk at the Oxford NLP reading group.
-- **Spring 2022:** [Paper](https://arxiv.org/abs/2112.08674) with the Mosaic team at AI2 on generating few-shot free-text explanations accepted to NAACL 2022. Camera-ready coming soon.
 - **Fall 2021:** I passed my PhD dissertation proposal!
 - **Fall 2021:** [Paper](https://arxiv.org/abs/2102.12060) and [companion website](https://exnlpdatasets.github.io/)-- a survey on explainable NLP datasets-- accepted to NeurIPS 2021 Datasets & Benchmarks.
 - **Fall 2021:** [Paper](https://arxiv.org/abs/2010.12762) accepted to EMNLP 2021.
@@ -36,13 +55,3 @@ My research interest is interpretability methods for deep learning applied to na
 - **Summer 2018:** Attended [NAACL](http://naacl2018.org/) in New Orleans as a student volunteer.
 - **Spring 2018:** Paper accepted to NAACL 2018 ([Explainable Prediction of Medical Codes from Clinical Text](https://arxiv.org/pdf/1802.05695.pdf))
 - **Spring 2018:** Attended the [CRA-W Graduate Cohort Workshop](https://cra.org/cra-w/events/grad-cohort-women-2018/) in San Francisco, CA.
-
-### Contact me
-
-[Twitter](https://twitter.com/sarahwiegreffe)
-
-Email: swiegreffe6[at]gatech[dot]edu
-
-[CV]({{ site.url }}/website_cv.pdf) (last updated 03/07/22)
-
-[How to pronounce my last name](https://translate.google.com/#view=home&op=translate&sl=de&tl=en&text=wiegreffe) (click on German left-side audio)

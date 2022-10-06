@@ -4,9 +4,13 @@ title: Publications and Preprints
 permalink: /previous/
 ---
 
-**Sarah Wiegreffe**, Jack Hessel, Swabha Swayamdipta, Mark Riedl, Yejin Choi. *Reframing Human-AI Collaboration for Generating Free-Text Explanations*. NAACL 2022. [PDF (camera-ready coming soon)](https://arxiv.org/abs/2112.08674), [code (coming soon)](https://github.com/allenai/few_shot_explanations/)
+**Sarah Wiegreffe**. *Interpreting Neural Networks for and with Natural Language*. PhD Dissertation. [PDF](https://smartech.gatech.edu/handle/1853/67202)
 
-**Sarah Wiegreffe** and Ana Marasović (equal contribution). *Teach Me to Explain: A Review of Datasets for Explainable Natural Language Processing*. NeurIPS 2021 Datasets and Benchmarks. [PDF](https://arxiv.org/abs/2102.12060), [companion website](https://exnlpdatasets.github.io/), [conference video](https://slideslive.com/38969466/teach-me-to-explain-a-review-of-datasets-for-explainable-natural-language-processing?ref=speaker-34108-latest).
+Kaige Xie, **Sarah Wiegreffe**, Mark Riedl. *Calibrating Trust of Multi-Hop Question Answering Systems with Decompositional Probes*. Preprint. [PDF](https://arxiv.org/abs/2204.07693)
+
+**Sarah Wiegreffe**, Jack Hessel, Swabha Swayamdipta, Mark Riedl, Yejin Choi. *Reframing Human-AI Collaboration for Generating Free-Text Explanations*. NAACL 2022. [PDF](https://arxiv.org/abs/2112.08674), [code](https://github.com/allenai/few_shot_explanations/), [conference video](https://www.youtube.com/watch?v=4gfBd9av7rA)
+
+**Sarah Wiegreffe** and Ana Marasović (equal contribution). *Teach Me to Explain: A Review of Datasets for Explainable Natural Language Processing*. NeurIPS 2021 Datasets and Benchmarks. [PDF](https://arxiv.org/abs/2102.12060), [companion website](https://exnlpdatasets.github.io/), [conference video](https://slideslive.com/38969466/teach-me-to-explain-a-review-of-datasets-for-explainable-natural-language-processing?ref=speaker-34108-latest)
 
 **Sarah Wiegreffe**, Ana Marasović, Noah A. Smith. *Measuring Association Between Labels and Free-Text Rationales*. EMNLP 2021. [PDF](https://arxiv.org/abs/2010.12762), [code](https://github.com/allenai/label_rationale_association), [conference video](https://www.youtube.com/watch?v=faEWYzEfTGQ)
 
