@@ -3,6 +3,7 @@ layout: page
 title: Publications and Preprints
 permalink: /previous/
 ---
+**Sarah Wiegreffe**, Matthew Finlayson, Oyvind Tafjord, Peter Clark, Ashish Sabharwal. *Attentiveness to Answer Choices Doesn’t Always Entail High QA Accuracy*. [PDF]({{ site.url }}/attentiveness.pdf)
 
 **Sarah Wiegreffe**. *Interpreting Neural Networks \*for\* and \*with\* Natural Language*. PhD Dissertation. [PDF](https://smartech.gatech.edu/handle/1853/67202)
 
