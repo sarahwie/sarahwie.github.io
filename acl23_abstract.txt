@@ -1,0 +1,6 @@
+When generating text from language models (LMs), many prompting methods strive to explain LM behavior by eliciting specifically-structured outputs (e.g, chain-of-thought prompting). 
+Relatedly, querying a model with specially-designed inputs and observing output behavior is a longstanding and popular method in the NLP interpreter’s toolbox. 
+Prompting and querying approaches explain how LMs operate at a high-level (in natural language) without attributing behaviors to any specific components of the network.
+A separate line of work has investigated attributing or attempting to reconstruct model behaviors at the model parameter or hidden representation-level, generally at a small scale.
+While these two techniques often seem at odds in terms of their stated aims, they collectively inform a large progression in our understanding of LMs in the past 2 years.
+In this talk, I will give examples of both of these approaches, highlight their similarities and differences, and discuss paths forward that leverage their combined strengths.
