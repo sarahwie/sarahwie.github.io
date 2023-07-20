@@ -13,6 +13,8 @@ My research interest is interpretability methods for deep learning applied to na
 - designing architectures which address these weaknesses.
  
 ### Updates
+- **Summer 2023**: [Slides]({{ site.url }}/wiegreffe_nlrse_workshop_talk_acl_2023.pdf) and [recording (from 7:45)](https://us06web.zoom.us/rec/play/V4A5H-PIcqk41T1aS-ejShSYAo-yQFn0O5dIc8CmMbbA8g4m2CwCI1v9hXtEw0rHS6GvxxMZRHaY1-w-.KErf5RNWLR6deohR?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FRABF5bV1gMx3TD0aH6-9Gn0rcrTwGNzqQQ9Uc8QtzSgxecQvc1qJWv8v-mGBcg.-Hjt45OOFD8UpYWm) of my talk at the [Natural Language Reasoning and Structured Explanations](https://nl-reasoning-workshop.github.io/) workshop at ACL are available.
+- **Summer 2023**: Awarded an [Outstanding Area Chair](https://2023.aclweb.org/program/best_reviewers/) award (top 1.5\% of reviewers and chairs) at ACL 2023.
 - **Spring 2023**: New preprint! [Attentiveness to Answer Choices Doesn’t Always Entail High QA Accuracy]({{ site.url }}/attentiveness.pdf)
 - **Spring 2023**: Quoted in [this article](https://www.fastcompany.com/90896928/the-frightening-truth-about-ai-chatbots-nobody-knows-exactly-how-they-work) about language model interpretability.
 - **Spring 2023**: I am an area chair for ACL 2023 and will also be giving an [invited talk]({{ site.url }}/acl23_abstract.txt) at the [Natural Language Reasoning and Structured Explanations](https://nl-reasoning-workshop.github.io/) workshop. See you there!
