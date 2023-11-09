@@ -3,17 +3,20 @@ layout: page
 title: Publications and Preprints
 permalink: /previous/
 ---
-**Sarah Wiegreffe**, Matthew Finlayson, Oyvind Tafjord, Peter Clark, Ashish Sabharwal. *Increasing Probability Mass on Answer Choices Does Not Always Improve Accuracy*. EMNLP 2023. [PDF](https://arxiv.org/abs/2305.14596)
+**Sarah Wiegreffe**, Matthew Finlayson, Oyvind Tafjord, Peter Clark, Ashish Sabharwal. *Increasing Probability Mass on Answer Choices Does Not Always Improve Accuracy*. EMNLP 2023. [PDF](https://arxiv.org/abs/2305.14596), [code](https://github.com/allenai/revisiting_surface_form_competition)
 
-Anshita Gupta*, Debanjan Mondal*, Akshay Krishna Sheshadri*, Wenlong Zhao, Xiang Lorraine Li*, **Sarah Wiegreffe***, Niket Tandon*. *Editing Common Sense in Transformers*. EMNLP 2023. [PDF](https://arxiv.org/abs/2305.14956)
+Anshita Gupta*, Debanjan Mondal*, Akshay Krishna Sheshadri*, Wenlong Zhao, Xiang Lorraine Li*, **Sarah Wiegreffe***, Niket Tandon*. *Editing Common Sense in Transformers*. EMNLP 2023. [PDF](https://arxiv.org/abs/2305.14956), [code](https://github.com/anshitag/memit_csk)
 
-Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, **Sarah Wiegreffe**, Uri Alon, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Shashank Gupta, Bodhisattwa Prasad Majumder, Katherine Hermann, Sean Welleck, Amir Yazdanbakhsh, Peter Clark. *Self-Refine: Iterative Refinement with Self-Feedback*. NeurIPS 2023. [PDF](https://arxiv.org/abs/2303.17651)
+Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, **Sarah Wiegreffe**, Uri Alon, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Shashank Gupta, Bodhisattwa Prasad Majumder, Katherine Hermann, Sean Welleck, Amir Yazdanbakhsh, Peter Clark. *Self-Refine: Iterative Refinement with Self-Feedback*. NeurIPS 2023. [PDF](https://openreview.net/forum?id=S37hOerQLB), [code](https://github.com/madaan/self-refine), [website](https://selfrefine.info/)
+<!-- https://arxiv.org/abs/2303.17651 -->
+
+Kaige Xie, **Sarah Wiegreffe**, Mark Riedl. *Calibrating Trust of Multi-Hop Question Answering Systems with Decompositional Probes*. Findings of EMNLP 2022. [PDF](https://arxiv.org/abs/2204.07693), [conference video](https://aclanthology.org/2022.findings-emnlp.209.mp4)
+<!-- , [code](https://github.com/kaigexie/decompositional-probing) -->
+
+Xiangyu Peng, Siyan Li, **Sarah Wiegreffe**, Mark Riedl. *Inferring the Reader: Guiding Automated Story Generation with Commonsense Reasoning*. Findings of EMNLP 2022. [PDF](https://aclanthology.org/2022.findings-emnlp.520.pdf), [code](https://github.com/xiangyu-peng/CAST_public), [conference video](https://aclanthology.org/2022.findings-emnlp.520.mp4)
+<!-- https://arxiv.org/abs/2105.01311 -->
 
 **Sarah Wiegreffe**. *Interpreting Neural Networks \*for\* and \*with\* Natural Language*. PhD Dissertation. [PDF](https://smartech.gatech.edu/handle/1853/67202)
-
-Kaige Xie, **Sarah Wiegreffe**, Mark Riedl. *Calibrating Trust of Multi-Hop Question Answering Systems with Decompositional Probes*. Findings of EMNLP 2022. [PDF](https://arxiv.org/abs/2204.07693)
-
-Xiangyu Peng, Siyan Li, **Sarah Wiegreffe**, Mark Riedl. *Inferring the Reader: Guiding Automated Story Generation with Commonsense Reasoning*. Findings of EMNLP 2022. [PDF](https://arxiv.org/abs/2105.01311)
 
 **Sarah Wiegreffe**, Jack Hessel, Swabha Swayamdipta, Mark Riedl, Yejin Choi. *Reframing Human-AI Collaboration for Generating Free-Text Explanations*. NAACL 2022. [PDF](https://arxiv.org/abs/2112.08674), [code](https://github.com/allenai/few_shot_explanations/), [conference video](https://www.youtube.com/watch?v=4gfBd9av7rA)
 
