@@ -3,7 +3,11 @@ layout: page
 title: Publications and Preprints
 permalink: /previous/
 ---
-**Sarah Wiegreffe**, Matthew Finlayson, Oyvind Tafjord, Peter Clark, Ashish Sabharwal. *Attentiveness to Answer Choices Doesn’t Always Entail High QA Accuracy*. [PDF]({{ site.url }}/attentiveness.pdf)
+**Sarah Wiegreffe**, Matthew Finlayson, Oyvind Tafjord, Peter Clark, Ashish Sabharwal. *Increasing Probability Mass on Answer Choices Does Not Always Improve Accuracy*. EMNLP 2023. [PDF](https://arxiv.org/abs/2305.14596)
+
+Anshita Gupta*, Debanjan Mondal*, Akshay Krishna Sheshadri*, Wenlong Zhao, Xiang Lorraine Li*, **Sarah Wiegreffe***, Niket Tandon*. *Editing Common Sense in Transformers*. EMNLP 2023. [PDF](https://arxiv.org/abs/2305.14956)
+
+Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, **Sarah Wiegreffe**, Uri Alon, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Shashank Gupta, Bodhisattwa Prasad Majumder, Katherine Hermann, Sean Welleck, Amir Yazdanbakhsh, Peter Clark. *Self-Refine: Iterative Refinement with Self-Feedback*. NeurIPS 2023. [PDF](https://arxiv.org/abs/2303.17651)
 
 **Sarah Wiegreffe**. *Interpreting Neural Networks \*for\* and \*with\* Natural Language*. PhD Dissertation. [PDF](https://smartech.gatech.edu/handle/1853/67202)
 
