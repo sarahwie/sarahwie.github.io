@@ -5,6 +5,8 @@ layout: default
 Welcome to my personal site! I am a postdoctoral researcher at the [Allen Institute for AI](https://allenai.org/), or AI2 for short, working on the [Aristo](https://allenai.org/aristo) team. I am also affiliated with Prof. [Hanna Hajishirzi's group](https://h2lab.cs.washington.edu/) at the University of Washington.
 I received my PhD from Georgia Tech in 2022, advised by Prof. [Mark Riedl](https://eilab-gt.github.io).
 
+### [CV]({{ site.url }}/website_cv.pdf) (last updated 11/10/23)
+
 <!-- I am recruiting interns to work with me at AI2. The application is always rolling, but please [apply here](https://boards.greenhouse.io/thealleninstitute/jobs/2171324) by Nov. 1st for summer 2023 consideration! (Please also mention me in your application.) -->
 
 My research interest is interpretability methods for deep learning applied to natural language processing (NLP). This encompasses three threads: 
@@ -20,11 +22,11 @@ My research interest is interpretability methods for deep learning applied to na
 - **Summer 2023**: [Slides]({{ site.url }}/wiegreffe_nlrse_workshop_talk_acl_2023.pdf) and [recording (from 7:45)](https://us06web.zoom.us/rec/play/V4A5H-PIcqk41T1aS-ejShSYAo-yQFn0O5dIc8CmMbbA8g4m2CwCI1v9hXtEw0rHS6GvxxMZRHaY1-w-.KErf5RNWLR6deohR?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FRABF5bV1gMx3TD0aH6-9Gn0rcrTwGNzqQQ9Uc8QtzSgxecQvc1qJWv8v-mGBcg.-Hjt45OOFD8UpYWm) of my keynote at the ACL [Natural Language Reasoning and Structured Explanations](https://nl-reasoning-workshop.github.io/) workshop are available.
 - **Summer 2023**: Awarded an [Outstanding Area Chair](https://2023.aclweb.org/program/best_reviewers/) award (top 1.5% of reviewers and chairs) at ACL 2023.
 - **Spring 2023**: Quoted in [this article](https://www.fastcompany.com/90896928/the-frightening-truth-about-ai-chatbots-nobody-knows-exactly-how-they-work) about language model interpretability.
-- **Spring 2023**: I am an area chair for ACL 2023 and will also be giving an [invited talk]({{ site.url }}/acl23_abstract.txt) at the [Natural Language Reasoning and Structured Explanations](https://nl-reasoning-workshop.github.io/) workshop. See you there!
+- **Spring 2023**: I am an area chair for ACL 2023 and will also be giving an [invited talk]({{ site.url }}/acl23_abstract.txt) at the [Natural Language Reasoning and Structured Explanations](https://nl-reasoning-workshop.github.io/) workshop. See you in Toronto!
 - **Spring 2023**: Preprint that was a result of a large collaborative effort out- [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651)
 - **Fall 2022**: Talks at various NLP groups at the University of Washington ([Tsvetshop](https://tsvetshop.github.io/), [H2Lab](https://h2lab.cs.washington.edu/), and [Treehouse](https://faculty.washington.edu/ebender/)).
 - **Fall 2022**: Two [Findings](https://arxiv.org/abs/2204.07693) [papers](https://arxiv.org/abs/2105.01311) at EMNLP 2022.
-- **Fall 2022**: Co-organizing the BlackBoxNLP workshop at EMNLP 2022.
+- **Fall 2022**: Co-organizing the BlackBoxNLP workshop at EMNLP 2022. See you in Abu Dhabi!
 - **Fall 2022**: I am an area chair for EMNLP 2022.
 - **Fall 2022**: Started postdoc at AI2.
 - **Summer 2022:** [Paper](https://arxiv.org/abs/2112.08674) on generating few-shot free-text explanations at NAACL 2022.
@@ -35,8 +37,6 @@ My research interest is interpretability methods for deep learning applied to na
 [Twitter](https://twitter.com/sarahwiegreffe)
 
 Email: wiegreffesarah[at]gmail[dot]com
-
-[CV]({{ site.url }}/website_cv.pdf) (last updated 10/05/22)
 
 [How to pronounce my last name](https://translate.google.com/#view=home&op=translate&sl=de&tl=en&text=wiegreffe) (click on German left-side audio)
 
