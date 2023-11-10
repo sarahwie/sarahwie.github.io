@@ -14,6 +14,7 @@ My research interest is interpretability methods for deep learning applied to na
  
 ### Updates
 - **Fall 2023**: [Two](https://arxiv.org/abs/2305.14596) [papers](https://arxiv.org/abs/2305.14956) at EMNLP 2023, and giving a keynote at the [Big Picture](https://www.bigpictureworkshop.com/) workshop with Sarthak Jain. See you in Singapore!
+- **Fall 2023**: Selected as a [Rising Star in EECS](https://eecsrisingstars2023.cc.gatech.edu/).
 - **Fall 2023**: [Self-Refine](https://arxiv.org/abs/2303.17651) published at NeurIPS.
 - **Fall 2023**: Talks at UC Irvine, UCSD, and USC.
 - **Summer 2023**: [Slides]({{ site.url }}/wiegreffe_nlrse_workshop_talk_acl_2023.pdf) and [recording (from 7:45)](https://us06web.zoom.us/rec/play/V4A5H-PIcqk41T1aS-ejShSYAo-yQFn0O5dIc8CmMbbA8g4m2CwCI1v9hXtEw0rHS6GvxxMZRHaY1-w-.KErf5RNWLR6deohR?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FRABF5bV1gMx3TD0aH6-9Gn0rcrTwGNzqQQ9Uc8QtzSgxecQvc1qJWv8v-mGBcg.-Hjt45OOFD8UpYWm) of my keynote at the ACL [Natural Language Reasoning and Structured Explanations](https://nl-reasoning-workshop.github.io/) workshop are available.
