@@ -3,7 +3,7 @@ layout: default
 ---
 
 Welcome to my personal site! I am a postdoctoral researcher at the [Allen Institute for AI](https://allenai.org/), or AI2 for short, working on the [Aristo](https://allenai.org/aristo) team. I am also affiliated with Prof. [Hanna Hajishirzi's group](https://h2lab.cs.washington.edu/) at the University of Washington.
-I received my PhD from Georgia Tech in 2022, advised by Prof. [Mark Riedl](https://eilab-gt.github.io).
+I received my PhD from Georgia Tech, advised by Prof. [Mark Riedl](https://eilab-gt.github.io), during which I spent time at Google, Sutter Health, and AI2.
 
 ### [CV]({{ site.url }}/website_cv.pdf) (last updated 11/10/23)
 
@@ -15,9 +15,15 @@ My research interest is interpretability methods for deep learning applied to na
 - designing architectures which address these weaknesses.
  
 ### Updates
-- **Fall 2023**: [Two](https://arxiv.org/abs/2305.14596) [papers](https://arxiv.org/abs/2305.14956) at EMNLP 2023, and giving a keynote at the [Big Picture](https://www.bigpictureworkshop.com/) workshop with Sarthak Jain. See you in Singapore!
-- **Fall 2023**: Selected as a [Rising Star in EECS](https://eecsrisingstars2023.cc.gatech.edu/).
-- **Fall 2023**: [Self-Refine](https://arxiv.org/abs/2303.17651) published at NeurIPS.
+- **Summer 2024**: Check out our NAACL 2024 tutorial on [Explanation in the Era of Large Language Models](https://explanation-llm.github.io/). See you in Mexico City!
+- **Spring 2024**: Our paper led by my intern Peter Hase, [The Unreasonable Effectiveness of Easy Training Data for Hard Tasks](https://arxiv.org/abs/2401.06751), will appear at ACL 2024.
+- **Spring 2024**: Gave a guest lecture in the graduate-level LLMs course at Washington University in St. Louis.
+- **Winter 2023**: Recording of Sarthak Jain and I's keynote ("Is Attention = Explanation? Past, Present, and Future") at the Big Picture workshop is available [here (from 1:57)](https://us06web.zoom.us/rec/play/Xp0np80zg8IxSPS_bnXpCBbtM3ffGiP4gT1TMZ3-XGSNhlwIEL8dP0WWLT8YLbjGazumq4vh8q7kL5RZ.Uf8hy5Cejeyk3Jrd?canPlayFromShare=true&from=share_recording_detail&startTime=1701908520000&componentName=rec-play&originRequestUrl=https://us06web.zoom.us/rec/share/RnBM-pPFJKaCxH_4FE0ehJyPw3ZfLxNWe_9SCkylWR40KIDW5y_bey4D_PJ8g2TC.7Dy5zKUm59N50z6y?startTime=1701908520000).
+- **Winter 2023**: Gave a talk to the Washington State Senate's Environment, Energy, and Technology Committee on "What is AI?".
+- **Winter 2023**: Recognized as a [top reviewer](https://nips.cc/Conferences/2023/ProgramCommittee#top-reivewers) at NeurIPS 2023.
+- **Winter 2023**: [Two](https://arxiv.org/abs/2305.14596) [papers](https://arxiv.org/abs/2305.14956) at EMNLP 2023, and giving a keynote at the [Big Picture](https://www.bigpictureworkshop.com/) workshop with Sarthak Jain. See you in Singapore!
+- **Winter 2023**: Selected as a [Rising Star in EECS](https://eecsrisingstars2023.cc.gatech.edu/).
+- **Winter 2023**: [Self-Refine](https://arxiv.org/abs/2303.17651) published at NeurIPS.
 - **Fall 2023**: Talks at UC Irvine, UCSD, and USC.
 - **Summer 2023**: [Slides]({{ site.url }}/wiegreffe_nlrse_workshop_talk_acl_2023.pdf) and [recording (from 7:45)](https://us06web.zoom.us/rec/play/V4A5H-PIcqk41T1aS-ejShSYAo-yQFn0O5dIc8CmMbbA8g4m2CwCI1v9hXtEw0rHS6GvxxMZRHaY1-w-.KErf5RNWLR6deohR?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FRABF5bV1gMx3TD0aH6-9Gn0rcrTwGNzqQQ9Uc8QtzSgxecQvc1qJWv8v-mGBcg.-Hjt45OOFD8UpYWm) of my keynote at the ACL [Natural Language Reasoning and Structured Explanations](https://nl-reasoning-workshop.github.io/) workshop are available.
 - **Summer 2023**: Awarded an [Outstanding Area Chair](https://2023.aclweb.org/program/best_reviewers/) award (top 1.5% of reviewers and chairs) at ACL 2023.

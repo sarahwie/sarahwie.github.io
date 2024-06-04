@@ -3,6 +3,8 @@ layout: page
 title: Publications and Preprints
 permalink: /previous/
 ---
+Peter Hase, Mohit Bansal, Peter Clark, **Sarah Wiegreffe**. *The Unreasonable Effectiveness of Easy Training Data for Hard Tasks*. ACL 2024. [PDF](https://arxiv.org/abs/2401.06751)
+
 **Sarah Wiegreffe**, Matthew Finlayson, Oyvind Tafjord, Peter Clark, Ashish Sabharwal. *Increasing Probability Mass on Answer Choices Does Not Always Improve Accuracy*. EMNLP 2023. [PDF](https://arxiv.org/abs/2305.14596), [code](https://github.com/allenai/revisiting_surface_form_competition)
 
 Anshita Gupta*, Debanjan Mondal*, Akshay Krishna Sheshadri*, Wenlong Zhao, Xiang Lorraine Li*, **Sarah Wiegreffe***, Niket Tandon*. *Editing Common Sense in Transformers*. EMNLP 2023. [PDF](https://arxiv.org/abs/2305.14956), [code](https://github.com/anshitag/memit_csk)
@@ -26,12 +28,12 @@ Xiangyu Peng, Siyan Li, **Sarah Wiegreffe**, Mark Riedl. *Inferring the Reader: 
 
 Sarthak Jain, **Sarah Wiegreffe**, Yuval Pinter, Byron Wallace. *Learning to Faithfully Rationalize by Construction*. ACL 2020. [PDF](https://www.aclweb.org/anthology/2020.acl-main.409/), [code](https://github.com/successar/FRESH), [conference video](https://slideslive.com/38929220/learning-to-faithfully-rationalize-by-construction)
 
-**Sarah Wiegreffe** and Yuval Pinter (equal contribution). *Attention is not not Explanation*. EMNLP 2019. **Oral presentation**. [PDF](https://www.aclweb.org/anthology/D19-1002/), [code](https://github.com/sarahwie/attention), [conference talk](https://vimeo.com/404731845), [talk slides]({{ site.url }}/emnlp19_slides.pdf), [non-technical blogpost](https://mlatgt.blog/2020/03/25/explaining-machine-learning-models-for-natural-language/)
+**Sarah Wiegreffe** and Yuval Pinter (equal contribution). *Attention is not not Explanation*. EMNLP 2019. [PDF](https://www.aclweb.org/anthology/D19-1002/), [code](https://github.com/sarahwie/attention), [conference talk](https://vimeo.com/404731845), [talk slides]({{ site.url }}/emnlp19_slides.pdf), [non-technical blogpost](https://mlatgt.blog/2020/03/25/explaining-machine-learning-models-for-natural-language/)
 
 **Sarah Wiegreffe**, Gerardo Flores, Edward Choi, Andrew Dai. *Learning Bi-Directional Clinical Event Representations: A Comparison of Architectures*. Preprint (available upon request). 2019. 
 
 **Sarah Wiegreffe**, Edward Choi, Sherry Yan, Jimeng Sun, Jacob Eisenstein. *Clinical Concept Extraction for Document-Level Coding*. BioNLP Workshop at ACL 2019. [PDF](https://www.aclweb.org/anthology/W19-5028), [poster]({{ site.url }}/bionlp2019_poster.pdf)
 
-James Mullenbach, **Sarah Wiegreffe**, Jon Duke, Jimeng Sun, Jacob Eisenstein. *Explainable Prediction of Medical Codes from Clinical Text*. NAACL 2018. **Oral presentation**. [PDF](https://www.aclweb.org/anthology/N18-1100), [code](https://github.com/jamesmullenbach/caml-mimic), [talk slides (Google Drive)](https://docs.google.com/presentation/d/1UcUpFK9GyNCBZwqdh3nz1oLTZSmt_jMPKFhvbHbFpxM/edit?usp=sharing)
+James Mullenbach, **Sarah Wiegreffe**, Jon Duke, Jimeng Sun, Jacob Eisenstein. *Explainable Prediction of Medical Codes from Clinical Text*. NAACL 2018. [PDF](https://www.aclweb.org/anthology/N18-1100), [code](https://github.com/jamesmullenbach/caml-mimic), [talk slides (Google Drive)](https://docs.google.com/presentation/d/1UcUpFK9GyNCBZwqdh3nz1oLTZSmt_jMPKFhvbHbFpxM/edit?usp=sharing)
 
 **Sarah Wiegreffe**, Paul Anderson, Jihad Obeid. *Can Classifications of Publications by Translational Categories be Automated?* American Medical Informatics Association (AMIA) Joint Summits on Translational Science 2017. [PDF]({{ site.url }}/classification_of_publications.pdf), [poster]({{ site.url }}/poster.pdf)
