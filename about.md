@@ -5,16 +5,25 @@ layout: default
 Welcome to my personal site! I am a postdoctoral researcher at the [Allen Institute for AI](https://allenai.org/), or AI2 for short, working on the [Aristo](https://allenai.org/aristo) team. I am also affiliated with Prof. [Hanna Hajishirzi's group](https://h2lab.cs.washington.edu/) at the University of Washington.
 I received my PhD from Georgia Tech, advised by Prof. [Mark Riedl](https://eilab-gt.github.io), during which I spent time at Google, Sutter Health, and AI2.
 
-### [CV]({{ site.url }}/website_cv.pdf) (last updated 11/10/23)
+I work on the **interpretability and transparency of language models (LMs)** and other neural networks, with the goal of increasing their reliability, safety, and performance. I also focus on providing natural language explanations for users of LMs.
+
+**I am on the academic job market for the 2024-2025 cycle! Please reach out if you believe I would be a good fit.**
+
+### [CV]({{ site.url }}/website_cv.pdf) (last updated 10/07/24)
 
 <!-- I am recruiting interns to work with me at AI2. The application is always rolling, but please [apply here](https://boards.greenhouse.io/thealleninstitute/jobs/2171324) by Nov. 1st for summer 2023 consideration! (Please also mention me in your application.) -->
 
-My research interest is interpretability methods for deep learning applied to natural language processing (NLP). This encompasses three threads: 
+<!-- My research interest is interpretability methods for deep learning applied to natural language processing (NLP). This encompasses three threads: 
 - defining and standardizing terminology, desiderata, and evaluation methods;
 - understanding the strengths and weaknesses of existing models within this framework; and
-- designing architectures which address these weaknesses.
+- designing architectures which address these weaknesses. -->
  
 ### Updates
+- **Winter 2024**: [Paper](https://arxiv.org/abs/2407.12043) proposing a taxonomy for model noncompliance accepted at NeurIPS 2024 Datasets \& Benchmarks. 
+- **Winter 2024**: Attending EMNLP in Miami. Checkout our 2 [Findings](https://arxiv.org/abs/2311.09605) [papers](https://openreview.net/forum?id=4nFfHw0woo) and our [position paper on mechanistic interpretability](https://openreview.net/forum?id=schAf4BPtD) at the BlackBoxNLP workshop.
+- **Fall 2024**: Attending COLM in Philly.
+- **Fall 2024**: Selected as a [Rising Star in Generative AI](https://genai-workshop.cs.umass.edu/). 
+- **Summer 2024**: Checkout our newest preprint on [understanding how language models perform formatted multiple-choice QA](https://arxiv.org/abs/2407.15018). 
 - **Summer 2024**: Check out our NAACL 2024 tutorial on [Explanation in the Era of Large Language Models](https://explanation-llm.github.io/). See you in Mexico City!
 - **Spring 2024**: Our paper led by my intern Peter Hase, [The Unreasonable Effectiveness of Easy Training Data for Hard Tasks](https://arxiv.org/abs/2401.06751), will appear at ACL 2024.
 - **Spring 2024**: Gave a guest lecture in the graduate-level LLMs course at Washington University in St. Louis.
