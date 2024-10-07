@@ -5,15 +5,30 @@ permalink: /previous/
 ---
 "+" denotes equal contribution.
 
-Yanai Elazar, Bhargavi Paranjape+, Hao Peng+, **Sarah Wiegreffe**+, Khyathi Raghavi Chandu, Vivek Srikumar, Sameer Singh, Noah A. Smith. *Measuring and Improving Attentiveness to Partial Inputs with Counterfactuals*. 2023. [PDF](https://arxiv.org/abs/2311.09605)
+Jack Merullo, Noah A. Smith, **Sarah Wiegreﬀe**+ and Yanai Elazar+. *On Linear Representations and Pretraining Data Frequency in Language Models*.
+
+Sarah Wiegreﬀe, Oyvind Tafjord, Yonatan Belinkov, Hannaneh Hajishirzi, Ashish Sabhar-
+wal. *Answer, Assemble, Ace: Understanding How Transformers Answer Multiple Choice
+Questions*. [PDF](https://arxiv.org/abs/2407.15018), [code](https://github.com/allenai/understanding_mcqa)
 
 # Publications
 
-Peter Hase, Mohit Bansal, Peter Clark, **Sarah Wiegreffe**. *The Unreasonable Effectiveness of Easy Training Data for Hard Tasks*. ACL 2024. [PDF](https://arxiv.org/abs/2401.06751), [code](https://github.com/allenai/easy-to-hard-generalization), [blogpost](https://blog.allenai.org/the-unreasonable-effectiveness-of-easy-training-data-0a66e2ea6fa7)
+Faeze Brahman, Sachin Kumar, Vidhisha Balachandran+ and Pradeep Dasigi+ and Valentina
+Pyatkin+ and Abhilasha Ravichander+ and **Sarah Wiegreﬀe**+, Nouha Dziri, Khyathi Chandu,
+Jack Hessel, Yulia Tsvetkov, Noah A. Smith, Yejin Choi, Hannaneh Hajishirzi. *The Art
+of Saying No: Contextual Noncompliance in Language Models*. NeurIPS 2024 Datasets and Benchmarks. [PDF](https://arxiv.org/abs/2407.12043), [code & models](https://github.com/allenai/noncompliance), [data](https://huggingface.co/datasets/allenai/coconot)
+
+Naomi Saphra+ and **Sarah Wiegreﬀe**+. *Mechanistic?* BlackBoxNLP workshop at EMNLP 2024. [PDF](https://openreview.net/forum?id=schAf4BPtD)
+
+Shramay Palta, Nishant Balepur, Peter A. Rankel, **Sarah Wiegreﬀe**, Marine Carpuat, Rachel Rudinger. *Plausibly Problematic Questions in Multiple-Choice Benchmarks for Commonsense Reasoning*. Findings of EMNLP 2024. [PDF](https://openreview.net/forum?id=4nFfHw0woo)
+
+Yanai Elazar, Bhargavi Paranjape+ and Hao Peng+ and **Sarah Wiegreffe**+, Khyathi Raghavi Chandu, Vivek Srikumar, Sameer Singh, Noah A. Smith. *Measuring and Improving Attentiveness to Partial Inputs with Counterfactuals*. Findings of EMNLP 2024. [PDF](https://arxiv.org/abs/2311.09605)
+
+Peter Hase, Mohit Bansal, Peter Clark, **Sarah Wiegreffe**. *The Unreasonable Effectiveness of Easy Training Data for Hard Tasks*. ACL 2024. [PDF](https://arxiv.org/abs/2401.06751), [code](https://github.com/allenai/easy-to-hard-generalization), [blogpost](https://blog.allenai.org/the-unreasonable-effectiveness-of-easy-training-data-0a66e2ea6fa7), [conference video](https://underline.io/events/466/posters/18353/poster/102183-the-unreasonable-effectiveness-of-easy-training-data-for-hard-tasks)
 
 **Sarah Wiegreffe**, Matthew Finlayson, Oyvind Tafjord, Peter Clark, Ashish Sabharwal. *Increasing Probability Mass on Answer Choices Does Not Always Improve Accuracy*. EMNLP 2023. [PDF](https://aclanthology.org/2023.emnlp-main.522/), [code](https://github.com/allenai/revisiting_surface_form_competition), [conference video](https://aclanthology.org/2023.emnlp-main.522.mp4)
 
-Anshita Gupta+, Debanjan Mondal+, Akshay Krishna Sheshadri+, Wenlong Zhao, Xiang Lorraine Li+, **Sarah Wiegreffe**+, Niket Tandon+. *Editing Common Sense in Transformers*. EMNLP 2023. [PDF](https://aclanthology.org/2023.emnlp-main.511/), [code](https://github.com/anshitag/memit_csk), [conference video](https://aclanthology.org/2023.emnlp-main.511.mp4)
+Anshita Gupta+, Debanjan Mondal+, Akshay Krishna Sheshadri+, Wenlong Zhao, Xiang Lorraine Li+ and **Sarah Wiegreffe**+ and Niket Tandon+. *Editing Common Sense in Transformers*. EMNLP 2023. [PDF](https://aclanthology.org/2023.emnlp-main.511/), [code](https://github.com/anshitag/memit_csk), [conference video](https://aclanthology.org/2023.emnlp-main.511.mp4)
 
 Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, **Sarah Wiegreffe**, Uri Alon, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Shashank Gupta, Bodhisattwa Prasad Majumder, Katherine Hermann, Sean Welleck, Amir Yazdanbakhsh, Peter Clark. *Self-Refine: Iterative Refinement with Self-Feedback*. NeurIPS 2023. [PDF](https://openreview.net/forum?id=S37hOerQLB), [code](https://github.com/madaan/self-refine), [website](https://selfrefine.info/), [poster](https://neurips.cc/media/neurips-2023/Slides/71632.pdf)
 <!-- https://arxiv.org/abs/2303.17651 -->
