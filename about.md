@@ -19,6 +19,8 @@ I work on the **interpretability and transparency of language models (LMs)** and
 - designing architectures which address these weaknesses. -->
  
 ### Updates
+- **Winter 2024**: Selected as a [Rising Star in Machine Learning](https://ml.umd.edu/rising-stars-workshop). 
+- **Winter 2024**: Recognized as an outstanding area chair at EMNLP 2024. 
 - **Winter 2024**: [Paper](https://arxiv.org/abs/2407.12043) proposing a taxonomy for model noncompliance accepted at NeurIPS 2024 Datasets and Benchmarks. 
 - **Winter 2024**: Attending EMNLP in Miami. Checkout our 2 [Findings](https://arxiv.org/abs/2311.09605) [papers](https://openreview.net/forum?id=4nFfHw0woo) and our [position paper on mechanistic interpretability](https://openreview.net/forum?id=schAf4BPtD) at the BlackBoxNLP workshop.
 - **Fall 2024**: Attending COLM in Philly.
