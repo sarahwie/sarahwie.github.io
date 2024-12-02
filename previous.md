@@ -9,7 +9,8 @@ Jack Merullo, Noah A. Smith, **Sarah Wiegreﬀe**+ and Yanai Elazar+. *On Linear
 
 Sarah Wiegreﬀe, Oyvind Tafjord, Yonatan Belinkov, Hannaneh Hajishirzi, Ashish Sabhar-
 wal. *Answer, Assemble, Ace: Understanding How Transformers Answer Multiple Choice
-Questions*. [PDF](https://arxiv.org/abs/2407.15018), [code](https://github.com/allenai/understanding_mcqa)
+Questions*. [PDF]({{ site.url }}/understanding_mcqa.pdf), [code](https://github.com/allenai/understanding_mcqa)
+<!-- [PDF](https://arxiv.org/abs/2407.15018) -->
 
 # Publications
 
