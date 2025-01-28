@@ -5,14 +5,13 @@ permalink: /previous/
 ---
 "+" denotes equal contribution.
 
-Jack Merullo, Noah A. Smith, **Sarah Wiegreﬀe**+ and Yanai Elazar+. *On Linear Representations and Pretraining Data Frequency in Language Models*.
-
-Sarah Wiegreﬀe, Oyvind Tafjord, Yonatan Belinkov, Hannaneh Hajishirzi, Ashish Sabhar-
-wal. *Answer, Assemble, Ace: Understanding How Transformers Answer Multiple Choice
-Questions*. [PDF]({{ site.url }}/understanding_mcqa.pdf), [code](https://github.com/allenai/understanding_mcqa)
-<!-- [PDF](https://arxiv.org/abs/2407.15018) -->
-
 # Publications
+
+Jack Merullo, Noah A. Smith, **Sarah Wiegreﬀe**+ and Yanai Elazar+. *On Linear Representations and Pretraining Data Frequency in Language Models*. ICLR 2025. [PDF](https://openreview.net/pdf?id=EDoD3DgivF)
+
+Sarah Wiegreﬀe, Oyvind Tafjord, Yonatan Belinkov, Hannaneh Hajishirzi, Ashish Sabharwal. *Answer, Assemble, Ace: Understanding How Transformers Answer Multiple Choice
+Questions*. [PDF](({{ site.url }}/understanding_mcqa.pdf)), [code](https://github.com/allenai/understanding_mcqa)
+<!-- [PDF](https://arxiv.org/abs/2407.15018) -->
 
 Faeze Brahman, Sachin Kumar, Vidhisha Balachandran+ and Pradeep Dasigi+ and Valentina
 Pyatkin+ and Abhilasha Ravichander+ and **Sarah Wiegreﬀe**+, Nouha Dziri, Khyathi Chandu,
