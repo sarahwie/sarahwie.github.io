@@ -50,7 +50,7 @@ I work on the **interpretability and transparency of language models (LMs)** and
 
 ### Contact me
 
-[Twitter](https://twitter.com/sarahwiegreffe)
+[Bluesky](https://bsky.app/profile/sarah-nlp.bsky.social), [Twitter](https://twitter.com/sarahwiegreffe)
 
 Email: wiegreffesarah[at]gmail[dot]com
 
