@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Preprints
-permalink: /previous/
+# title: Preprints
+permalink: /publications/
 ---
 "+" denotes equal contribution.
 
+<!-- # Preprints -->
 # Publications
 
 Jack Merullo, Noah A. Smith, **Sarah Wiegreﬀe**+ and Yanai Elazar+. *On Linear Representations and Pretraining Data Frequency in Language Models*. ICLR 2025. [PDF](https://openreview.net/pdf?id=EDoD3DgivF)
