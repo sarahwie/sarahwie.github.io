@@ -10,7 +10,7 @@ I work on the **interpretability and transparency of language models (LMs)** and
 **I am on the academic job market for the 2024-2025 cycle! Please reach out if you believe I would be a good fit.**
 
 ### [CV]({{ site.url }}/assets/website_cv.pdf) (last updated 02/08/25)
-## [Research Statement]({{ site.url }}/assets/wiegreffe_research_2.pdf)
+### [Research Statement]({{ site.url }}/assets/wiegreffe_research_2.pdf)
 
 <!-- I am recruiting interns to work with me at AI2. The application is always rolling, but please [apply here](https://boards.greenhouse.io/thealleninstitute/jobs/2171324) by Nov. 1st for summer 2023 consideration! (Please also mention me in your application.) -->
 
