@@ -22,6 +22,7 @@ I've had the pleasure of working with some amazing students and interns.
 
 # Teaching
 
+- **Tutorial** at NAACL 2024 on "Explanations in the Era of Large Language Models". See our website (including the slides & recording) here: [https://explanation-llm.github.io/](https://explanation-llm.github.io/).
 - Guest Lecture ("Towards Transparent Language Models") in the graduate Large Language Models course at Washington University in St. Louis, Spring 2024.
 - Assistant for Georgia Tech [CS 7643 Natural Language Processing](https://cocoxu.github.io/CS7650_spring2024/) (grad), Fall 2021. 90 students.
 - Assistant for Georgia Tech [CS 4803/7643 Deep Learning](https://sites.cc.gatech.edu/classes/AY2021/cs7643_spring/) (undergrad/grad), Spring 2021. 170 students.
