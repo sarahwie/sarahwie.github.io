@@ -10,7 +10,7 @@ permalink: /publications/
 
 Jack Merullo, Noah A. Smith, **Sarah Wiegreﬀe**+ and Yanai Elazar+. *On Linear Representations and Pretraining Data Frequency in Language Models*. ICLR 2025. [PDF](https://openreview.net/pdf?id=EDoD3DgivF)
 
-**Sarah Wiegreﬀe**, Oyvind Tafjord, Yonatan Belinkov, Hannaneh Hajishirzi, Ashish Sabharwal. *Answer, Assemble, Ace: Understanding How LMs Answer Multiple Choice Questions*. ICLR 2025. [PDF]({{ site.url }}/understanding_mcqa.pdf), [code](https://github.com/allenai/understanding_mcqa)
+**Sarah Wiegreﬀe**, Oyvind Tafjord, Yonatan Belinkov, Hannaneh Hajishirzi, Ashish Sabharwal. *Answer, Assemble, Ace: Understanding How LMs Answer Multiple Choice Questions*. ICLR 2025. [PDF]({{ site.url }}/assets/understanding_mcqa.pdf), [code](https://github.com/allenai/understanding_mcqa)
 <!-- [PDF](https://arxiv.org/abs/2407.15018) -->
 
 Faeze Brahman, Sachin Kumar, Vidhisha Balachandran+ and Pradeep Dasigi+ and Valentina Pyatkin+ and Abhilasha Ravichander+ and **Sarah Wiegreﬀe**+, Nouha Dziri, Khyathi Chandu, Jack Hessel, Yulia Tsvetkov, Noah A. Smith, Yejin Choi, Hannaneh Hajishirzi. *The Art of Saying No: Contextual Noncompliance in Language Models*. NeurIPS 2024 Datasets and Benchmarks. [PDF](https://arxiv.org/abs/2407.12043), [code & models](https://github.com/allenai/noncompliance), [data](https://huggingface.co/datasets/allenai/coconot)
@@ -46,12 +46,12 @@ Xiangyu Peng+, Siyan Li+, **Sarah Wiegreffe**, Mark Riedl. *Inferring the Reader
 
 Sarthak Jain, **Sarah Wiegreffe**, Yuval Pinter, Byron Wallace. *Learning to Faithfully Rationalize by Construction*. ACL 2020. [PDF](https://www.aclweb.org/anthology/2020.acl-main.409/), [code](https://github.com/successar/FRESH), [conference video](https://slideslive.com/38929220/learning-to-faithfully-rationalize-by-construction)
 
-**Sarah Wiegreffe**+ and Yuval Pinter+. *Attention is not not Explanation*. EMNLP 2019. [PDF](https://www.aclweb.org/anthology/D19-1002/), [code](https://github.com/sarahwie/attention), [conference talk](https://vimeo.com/404731845), [talk slides]({{ site.url }}/emnlp19_slides.pdf), [non-technical blogpost](https://mlatgt.blog/2020/03/25/explaining-machine-learning-models-for-natural-language/)
+**Sarah Wiegreffe**+ and Yuval Pinter+. *Attention is not not Explanation*. EMNLP 2019. [PDF](https://www.aclweb.org/anthology/D19-1002/), [code](https://github.com/sarahwie/attention), [conference talk](https://vimeo.com/404731845), [talk slides]({{ site.url }}/assets/emnlp19_slides.pdf), [non-technical blogpost](https://mlatgt.blog/2020/03/25/explaining-machine-learning-models-for-natural-language/)
 
 **Sarah Wiegreffe**, Gerardo Flores, Edward Choi, Andrew Dai. *Learning Bi-Directional Clinical Event Representations: A Comparison of Architectures*. Preprint (available upon request). 2019. 
 
-**Sarah Wiegreffe**, Edward Choi, Sherry Yan, Jimeng Sun, Jacob Eisenstein. *Clinical Concept Extraction for Document-Level Coding*. BioNLP Workshop at ACL 2019. [PDF](https://www.aclweb.org/anthology/W19-5028), [poster]({{ site.url }}/bionlp2019_poster.pdf)
+**Sarah Wiegreffe**, Edward Choi, Sherry Yan, Jimeng Sun, Jacob Eisenstein. *Clinical Concept Extraction for Document-Level Coding*. BioNLP Workshop at ACL 2019. [PDF](https://www.aclweb.org/anthology/W19-5028), [poster]({{ site.url }}/assets/bionlp2019_poster.pdf)
 
 James Mullenbach, **Sarah Wiegreffe**, Jon Duke, Jimeng Sun, Jacob Eisenstein. *Explainable Prediction of Medical Codes from Clinical Text*. NAACL 2018. [PDF](https://www.aclweb.org/anthology/N18-1100), [code](https://github.com/jamesmullenbach/caml-mimic), [talk slides (Google Drive)](https://docs.google.com/presentation/d/1UcUpFK9GyNCBZwqdh3nz1oLTZSmt_jMPKFhvbHbFpxM/edit?usp=sharing)
 
-**Sarah Wiegreffe**, Paul Anderson, Jihad Obeid. *Can Classifications of Publications by Translational Categories be Automated?* American Medical Informatics Association (AMIA) Joint Summits on Translational Science 2017. [PDF]({{ site.url }}/classification_of_publications.pdf), [poster]({{ site.url }}/poster.pdf)
+**Sarah Wiegreffe**, Paul Anderson, Jihad Obeid. *Can Classifications of Publications by Translational Categories be Automated?* American Medical Informatics Association (AMIA) Joint Summits on Translational Science 2017. [PDF]({{ site.url }}/assets/classification_of_publications.pdf), [poster]({{ site.url }}/assets/poster.pdf)
