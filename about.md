@@ -2,8 +2,7 @@
 layout: default
 ---
 
-Welcome to my personal site! I am a postdoctoral researcher at the [Allen Institute for AI](https://allenai.org/), or AI2 for short. I am also affiliated with Prof. [Hanna Hajishirzi's group](https://h2lab.cs.washington.edu/) at the University of Washington.
-I received my PhD from Georgia Tech in 2022, advised by Prof. [Mark Riedl](https://eilab-gt.github.io). During my PhD I spent time interning at Google, Sutter Health, and AI2.
+Welcome to my personal site! I am a postdoctoral researcher at the [Allen Institute for AI](https://allenai.org/) (Ai2). I am also a member of [H2Lab](https://h2lab.cs.washington.edu/) at the University of Washington. I am advised by [Ashish Sabharwal](https://scholar.google.com/citations?user=7VspfeAAAAAJ&hl=en) and [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/). I received my PhD from Georgia Tech in 2022, advised by Prof. [Mark Riedl](https://eilab-gt.github.io). During my PhD I spent time interning at Google, Sutter Health, and Ai2 (2x), and won the Ai2 Outstanding Intern award.
 
 I work on the **interpretability and transparency of language models (LMs)** and other neural networks, with the goal of increasing their reliability, safety, and performance. I also focus on providing natural language explanations for users of LMs.
 
@@ -11,6 +10,7 @@ I work on the **interpretability and transparency of language models (LMs)** and
 
 ### [CV]({{ site.url }}/assets/website_cv.pdf) (last updated 02/08/25)
 ### [Research Statement]({{ site.url }}/assets/wiegreffe_research_2.pdf)
+### [Short Bio]({{ site.url }}/assets/bio.txt)
 
 <!-- I am recruiting interns to work with me at AI2. The application is always rolling, but please [apply here](https://boards.greenhouse.io/thealleninstitute/jobs/2171324) by Nov. 1st for summer 2023 consideration! (Please also mention me in your application.) -->
 
