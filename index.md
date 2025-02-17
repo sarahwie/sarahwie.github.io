@@ -8,7 +8,7 @@ I work on the **interpretability and transparency of language models (LMs)** and
 
 **I am on the academic job market for the 2024-2025 cycle! Please reach out if you believe I would be a good fit.**
 
-### [CV]({{ site.url }}/assets/website_cv.pdf) (last updated 02/08/25)
+### [CV]({{ site.url }}/assets/website_cv.pdf) (last updated 02/17/25)
 ### [Research Statement]({{ site.url }}/assets/wiegreffe_research_2.pdf)
 ### [Short Bio]({{ site.url }}/assets/bio.txt)
 
@@ -20,7 +20,7 @@ I work on the **interpretability and transparency of language models (LMs)** and
 - designing architectures which address these weaknesses. -->
  
 ### Updates
-- **Spring 2025**: [Two](https://openreview.net/forum?id=6NNA0MxhCH) [papers](https://openreview.net/forum?id=EDoD3DgivF) accepted to ICLR 2025. See you in Singapore!
+- **Spring 2025**: [Two](https://openreview.net/forum?id=6NNA0MxhCH) [papers](https://openreview.net/forum?id=EDoD3DgivF) accepted to ICLR 2025, the former as a spotlight. See you in Singapore!
 - **Winter 2024**: Selected as a [Rising Star in Machine Learning](https://ml.umd.edu/rising-stars-workshop). 
 - **Winter 2024**: Recognized as an outstanding area chair at EMNLP 2024. 
 - **Winter 2024**: [Paper](https://arxiv.org/abs/2407.12043) proposing a taxonomy for model noncompliance accepted at NeurIPS 2024 Datasets and Benchmarks. 
