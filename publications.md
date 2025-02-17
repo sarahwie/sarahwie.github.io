@@ -10,7 +10,7 @@ permalink: /publications/
 
 Jack Merullo, Noah A. Smith, **Sarah Wiegreﬀe**+ and Yanai Elazar+. *On Linear Representations and Pretraining Data Frequency in Language Models*. ICLR 2025. [PDF](https://openreview.net/pdf?id=EDoD3DgivF)
 
-**Sarah Wiegreﬀe**, Oyvind Tafjord, Yonatan Belinkov, Hannaneh Hajishirzi, Ashish Sabharwal. *Answer, Assemble, Ace: Understanding How LMs Answer Multiple Choice Questions*. ICLR 2025. [PDF]({{ site.url }}/assets/understanding_mcqa.pdf), [code](https://github.com/allenai/understanding_mcqa)
+**Sarah Wiegreﬀe**, Oyvind Tafjord, Yonatan Belinkov, Hannaneh Hajishirzi, Ashish Sabharwal. *Answer, Assemble, Ace: Understanding How LMs Answer Multiple Choice Questions*. ICLR 2025. **Spotlight (top 5.1% of submissions).** [PDF]({{ site.url }}/assets/understanding_mcqa.pdf), [code](https://github.com/allenai/understanding_mcqa)
 <!-- [PDF](https://arxiv.org/abs/2407.15018) -->
 
 Faeze Brahman, Sachin Kumar, Vidhisha Balachandran+ and Pradeep Dasigi+ and Valentina Pyatkin+ and Abhilasha Ravichander+ and **Sarah Wiegreﬀe**+, Nouha Dziri, Khyathi Chandu, Jack Hessel, Yulia Tsvetkov, Noah A. Smith, Yejin Choi, Hannaneh Hajishirzi. *The Art of Saying No: Contextual Noncompliance in Language Models*. NeurIPS 2024 Datasets and Benchmarks. [PDF](https://arxiv.org/abs/2407.12043), [code & models](https://github.com/allenai/noncompliance), [data](https://huggingface.co/datasets/allenai/coconot)
