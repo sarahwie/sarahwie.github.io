@@ -8,10 +8,13 @@ permalink: /publications/
 <!-- # Preprints -->
 # Publications
 
+Alec Bunn, Ben Bogin+, **Sarah Wiegreffe**+. *Fine-Tune on the Format: First Improving Multiple-Choice Evaluation for Intermediate LLM Checkpoints*. GEM workshop at ACL 2025.
+
+Aaron Mueller+, Atticus Geiger+, **Sarah Wiegreﬀe**, Dana Arad, Iván Arcuschin, Adam Belfki, Yik Siu Chan, Jaden Fried Fiotto-Kaufman, Tal Haklay, Michael Hanna, Jing Huang, Rohan Gupta, Yaniv Nikankin, Hadas Orgad, Nikhil Prakash, Anja Reusch, Aruna Sankaranarayanan, Shun Shao, Alessandro Stolfo, Martin Tutek, Amir Zur, David Bau, Yonatan Belinkov. *MIB: A Mechanistic Interpretability Benchmark*. ICML 2025. [PDF](https://arxiv.org/abs/2504.13151), [Website](https://mib-bench.github.io/), [Leaderboard](https://huggingface.co/spaces/mib-bench/leaderboard), [Datasets](https://huggingface.co/collections/mib-bench/mib-datasets-67f55273612ec3067a42a56b), [Code](https://github.com/aaronmueller/MIB)
+
 Jack Merullo, Noah A. Smith, **Sarah Wiegreﬀe**+ and Yanai Elazar+. *On Linear Representations and Pretraining Data Frequency in Language Models*. ICLR 2025. [PDF](https://openreview.net/pdf?id=EDoD3DgivF)
 
-**Sarah Wiegreﬀe**, Oyvind Tafjord, Yonatan Belinkov, Hannaneh Hajishirzi, Ashish Sabharwal. *Answer, Assemble, Ace: Understanding How LMs Answer Multiple Choice Questions*. ICLR 2025. **Spotlight (top 5.1% of submissions).** [PDF]({{ site.url }}/assets/understanding_mcqa.pdf), [code](https://github.com/allenai/understanding_mcqa)
-<!-- [PDF](https://arxiv.org/abs/2407.15018) -->
+**Sarah Wiegreﬀe**, Oyvind Tafjord, Yonatan Belinkov, Hannaneh Hajishirzi, Ashish Sabharwal. *Answer, Assemble, Ace: Understanding How LMs Answer Multiple Choice Questions*. ICLR 2025. **Spotlight (top 5.1% of submissions).** [PDF](https://arxiv.org/abs/2407.15018), [code](https://github.com/allenai/understanding_mcqa)
 
 Faeze Brahman, Sachin Kumar, Vidhisha Balachandran+ and Pradeep Dasigi+ and Valentina Pyatkin+ and Abhilasha Ravichander+ and **Sarah Wiegreﬀe**+, Nouha Dziri, Khyathi Chandu, Jack Hessel, Yulia Tsvetkov, Noah A. Smith, Yejin Choi, Hannaneh Hajishirzi. *The Art of Saying No: Contextual Noncompliance in Language Models*. NeurIPS 2024 Datasets and Benchmarks. [PDF](https://arxiv.org/abs/2407.12043), [code & models](https://github.com/allenai/noncompliance), [data](https://huggingface.co/datasets/allenai/coconot)
 

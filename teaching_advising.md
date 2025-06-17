@@ -8,7 +8,7 @@ permalink: /teaching_advising/
 I've had the pleasure of working with some amazing students and interns.
 
 - [**Jack Merullo**](https://jmerullo.github.io/), Ai2 intern & PhD student at Brown University. [paper](https://openreview.net/forum?id=EDoD3DgivF)
-- [**Alec Bunn**](https://www.linkedin.com/in/alecbunn/), undergraduate student at the University of Washington
+- [**Alec Bunn**](https://www.linkedin.com/in/alecbunn/), undergraduate student at the University of Washington (--> PhD student at Arizona State).
 - [**Shramay Palta**](https://shramay-palta.github.io/), PhD student at the University of Maryland. [paper](https://aclanthology.org/2024.findings-emnlp.198/)
 - [**Peter Hase**](https://peterbhase.github.io/), Ai2 intern & PhD student at UNC Chapel Hill. [paper](https://aclanthology.org/2024.acl-long.378/)
 - [**Joris Baan**](https://jorisbaan.nl/), Ai2 intern & PhD student at the University of Amsterdam
@@ -22,6 +22,7 @@ I've had the pleasure of working with some amazing students and interns.
 
 # Teaching
 
+- **Fall 2025**: Language Model Interpretability (CMSC848R), UMD.
 - **Tutorial** at NAACL 2024 on "Explanations in the Era of Large Language Models". See our website (including the slides & recording) here: [https://explanation-llm.github.io/](https://explanation-llm.github.io/).
 - Guest Lecture ("Towards Transparent Language Models") in the graduate Large Language Models course at Washington University in St. Louis, Spring 2024.
 - Assistant for Georgia Tech [CS 7643 Natural Language Processing](https://cocoxu.github.io/CS7650_spring2024/) (grad), Fall 2021. 90 students.
