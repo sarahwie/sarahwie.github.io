@@ -4,30 +4,23 @@ layout: default
 
 Welcome to my personal site! I am a postdoctoral researcher at the [Allen Institute for AI](https://allenai.org/) (Ai2). I am also a member of [H2Lab](https://h2lab.cs.washington.edu/) at the University of Washington. I am advised by [Ashish Sabharwal](https://scholar.google.com/citations?user=7VspfeAAAAAJ&hl=en) and [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/). I received my PhD from Georgia Tech in 2022, advised by Prof. [Mark Riedl](https://eilab-gt.github.io). During my PhD I spent time interning at Google, Sutter Health, and Ai2 (2x), and won the Ai2 Outstanding Intern award.
 
+**In August, I will be starting as an assistant professor in the CS department at the University of Maryland. If you are a current CS graduate student interested in my research, I'd love to hear from you. I will also be offering a graduate seminar (CMSC848R) on LM interpretability in the fall.**
+
 I work on the **interpretability and transparency of language models (LMs)** and other neural networks, with the goal of increasing their reliability, safety, and performance. I also focus on providing natural language explanations for users of LMs.
 
-**I am on the academic job market for the 2024-2025 cycle! Please reach out if you believe I would be a good fit.**
-
-### [CV]({{ site.url }}/assets/website_cv.pdf) (last updated 02/17/25)
-### [Research Statement]({{ site.url }}/assets/wiegreffe_research_2.pdf)
-### [Short Bio]({{ site.url }}/assets/bio.txt)
-
-<!-- I am recruiting interns to work with me at AI2. The application is always rolling, but please [apply here](https://boards.greenhouse.io/thealleninstitute/jobs/2171324) by Nov. 1st for summer 2023 consideration! (Please also mention me in your application.) -->
-
-<!-- My research interest is interpretability methods for deep learning applied to natural language processing (NLP). This encompasses three threads: 
-- defining and standardizing terminology, desiderata, and evaluation methods;
-- understanding the strengths and weaknesses of existing models within this framework; and
-- designing architectures which address these weaknesses. -->
+### [Short Bio for Talks]({{ site.url }}/assets/bio.txt)
  
 ### Updates
-- **Spring 2025**: [Two](https://openreview.net/forum?id=6NNA0MxhCH) [papers](https://openreview.net/forum?id=EDoD3DgivF) accepted to ICLR 2025, the former as a spotlight. See you in Singapore!
+- **Fall 2025**: Starting as an assistant professor in the CS department at the University of Maryland. Go terps!
+- **Summer 2025**: Congrats to my undergraduate student [Alec Bunn](https://www.linkedin.com/in/alecbunn/) on having a paper accepted to the ACL 2025 GEM workshop.
+- **Summer 2025**: Our [Mechanistic Interpretability Benchmark (MIB)](https://arxiv.org/abs/2504.13151) was accepted to ICML 2025. Check out the [website](https://mib-bench.github.io/) for all the benchmark resources. I am also organizing the [Actionable Interpretability Workshop](https://actionable-interpretability.github.io/) at ICML. See you in Vancouver!
+- **Spring 2025**: [Two](https://openreview.net/forum?id=6NNA0MxhCH) [papers](https://openreview.net/forum?id=EDoD3DgivF) accepted to ICLR 2025, the former as a spotlight.
 - **Winter 2024**: Selected as a [Rising Star in Machine Learning](https://ml.umd.edu/rising-stars-workshop). 
 - **Winter 2024**: Recognized as an outstanding area chair at EMNLP 2024. 
 - **Winter 2024**: [Paper](https://arxiv.org/abs/2407.12043) proposing a taxonomy for model noncompliance accepted at NeurIPS 2024 Datasets and Benchmarks. 
-- **Winter 2024**: Attending EMNLP in Miami. Checkout our 2 [Findings](https://arxiv.org/abs/2311.09605) [papers](https://openreview.net/forum?id=4nFfHw0woo) and our [position paper on mechanistic interpretability](https://openreview.net/forum?id=schAf4BPtD) at the BlackBoxNLP workshop.
+- **Winter 2024**: Attending EMNLP in Miami. Checkout our 2 [Findings](https://arxiv.org/abs/2311.09605) [papers](https://openreview.net/forum?id=4nFfHw0woo) and our [position paper on mechanistic interpretability](https://openreview.net/forum?id=schAf4BPtD) at the BlackBoxNLP workshop. Slides from my talk at BlackBoxNLP: [here]({{ site.url }}/assets/wiegreffe_blackboxnlp_2024.pdf).
 - **Fall 2024**: Attending COLM in Philly.
 - **Fall 2024**: Selected as a [Rising Star in Generative AI](https://genai-workshop.cs.umass.edu/). 
-<!-- - **Summer 2024**: Checkout our newest preprint on [understanding how language models perform formatted multiple-choice QA](https://arxiv.org/abs/2407.15018).  -->
 - **Summer 2024**: Check out our NAACL 2024 tutorial on [Explanation in the Era of Large Language Models](https://explanation-llm.github.io/). See you in Mexico City!
 - **Spring 2024**: Our paper led by my intern Peter Hase, [The Unreasonable Effectiveness of Easy Training Data for Hard Tasks](https://arxiv.org/abs/2401.06751), will appear at ACL 2024.
 - **Spring 2024**: Gave a guest lecture in the graduate-level LLMs course at Washington University in St. Louis.
