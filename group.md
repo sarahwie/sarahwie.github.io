@@ -1,0 +1,30 @@
+---
+layout: default
+permalink: /group/
+---
+
+
+
+# Information for Interested Students
+
+
+
+# Current Students
+Coming soon :)
+
+# Current Collaborators
+- [**Shramay Palta**](https://shramay-palta.github.io/), PhD student at the University of Maryland. [paper](https://aclanthology.org/2024.findings-emnlp.198/)
+
+# Past Advisees and Collaborators
+
+- [**Alec Bunn**](https://www.linkedin.com/in/alecbunn/), undergraduate student at the University of Washington. [paper](https://aclanthology.org/2025.gem-1.46/)
+- [**Jack Merullo**](https://jmerullo.github.io/), Ai2 intern & PhD student at Brown University. [paper](https://openreview.net/forum?id=EDoD3DgivF)
+- [**Peter Hase**](https://peterbhase.github.io/), Ai2 intern & PhD student at UNC Chapel Hill. [paper](https://aclanthology.org/2024.acl-long.378/)
+- [**Joris Baan**](https://jorisbaan.nl/), Ai2 intern & PhD student at the University of Amsterdam.
+- [**Matthew Finlayson**](https://mattf1n.github.io/), predoctoral researcher at Ai2. [paper](https://aclanthology.org/2023.emnlp-main.522/)
+- [**Anshita Gupta**](https://www.linkedin.com/in/anshitag/), Master's student at UMass Amherst. [paper](https://aclanthology.org/2023.emnlp-main.511/)
+- [**Debanjan Mondal**](https://debanjanmondal702.github.io/), Master's student at UMass Amherst. [paper](https://aclanthology.org/2023.emnlp-main.511/)
+- [**Akshay Krishna Sheshadri**](https://www.linkedin.com/in/akshay-sheshadri/), Master's student at UMass Amherst. [paper](https://aclanthology.org/2023.emnlp-main.511/)
+- [**Kaige Xie**](https://scholar.google.com/citations?user=EqA1cskAAAAJ), PhD student at Georgia Tech. [paper](https://aclanthology.org/2022.findings-emnlp.209/)
+- [**Xiangyu Peng**](https://xiangyu-peng.github.io/), PhD student at Georgia Tech. [paper](https://aclanthology.org/2022.findings-emnlp.520/)
+- [**Siyan Li**](https://siyan-sylvia-li.com/), undergraduate student at Georgia Tech. [paper](https://aclanthology.org/2022.findings-emnlp.520/)
