@@ -21,7 +21,7 @@ html {
 body {
 	background: $white;
   font: 18px/1.4 $nunito, Arial, sans-serif;
-  color: $darkGray;
+  color: $black;
 }
 
 .container {
@@ -166,8 +166,8 @@ img {
 
 .site-avatar {
   float: left;
-  width: 140px;
-  height: 140px;
+  width: 200px;
+  height: 200px;
   margin-right: 15px;
 
   @include mobile {
@@ -193,11 +193,11 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $black;
   cursor: pointer;
   font-family: $nunito;
   font-weight: 300;
-  font-size: 28px;
+  font-size: 40px;
   letter-spacing: 1px;
 }
 
@@ -226,7 +226,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $black;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
