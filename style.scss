@@ -8,6 +8,7 @@
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap');
 
 /**************/
 /* BASE RULES */
@@ -19,7 +20,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $nunito, Arial, sans-serif;
   color: $darkGray;
 }
 
@@ -31,7 +32,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $nunito;
   color: $darkerGray;
   font-weight: bold;
 
@@ -194,7 +195,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $nunito;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -213,7 +214,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $nunito;
   font-size: 18px;
 
   @include mobile {
