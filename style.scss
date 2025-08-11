@@ -157,7 +157,8 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 2px solid $black;
+  background-color: $lightGray;
+  // border-bottom: 2px solid $black;
 
   @include mobile {
     text-align: center;
@@ -201,10 +202,12 @@ img {
   letter-spacing: 1px;
 }
 
-.site-description {
+.site-description,
+.site-description p {
   margin: -5px 0 0 0;
   color: $black;
-  font-size: 24px;
+  font-size: 16px;
+  font-family: $nunito;
 
   @include mobile {
     margin: 3px 0;
@@ -212,8 +215,9 @@ img {
 }
 
 nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  float: none;
+  margin-top: 0px; // @TODO: Vertically middle align
+  align-self: flex-end; // aligns nav to the bottom of masthead
   font-family: $nunito;
   font-size: 24px;
 
