@@ -3,7 +3,9 @@ layout: default
 permalink: /teaching/
 ---
 
-**Fall 2025**: CMSC848R Selected Topics in Information Processing; Language Model Interpretability. **Course website coming soon.**
+## **Fall 2025**: CMSC848R Selected Topics in Information Processing; Language Model Interpretability
+
+**Course website coming soon.**
 
 *This course focuses on state-of-the-art methods for interpreting language models and understanding their learned behaviors. We will discuss approaches centered on both understanding models’ internal mechanisms/representations and attributing behaviors back to the training data. We will focus on model tendencies including hallucination, factuality, memorization, and explanation/reasoning elicitation. If time allows, we will discuss recent developments in ameliorating learned behaviors, such as model editing, unlearning, and steering. This is primarily a seminar course focused on paper readings and presentations.*
 
