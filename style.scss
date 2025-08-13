@@ -171,6 +171,16 @@ img {
   }
 }
 
+.updates-box {
+  max-height: 180px;      // set your desired height
+  overflow-y: auto;       // enables vertical scrolling
+  padding: 10px;
+  border: 1px solid $gray;
+  background: $lightGray;
+  border-radius: 8px;
+  margin-bottom: 1em;
+}
+
 .header-right {
   display: flex;
   flex-direction: column;
