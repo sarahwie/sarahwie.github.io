@@ -56,5 +56,23 @@
     </div>
 
     {% include analytics.html %}
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        var email = document.getElementById("email");
+        if (email) {
+          email.addEventListener("click", function() {
+            navigator.clipboard.writeText(email.textContent)
+              .then(function() {
+                email.style.background = "#ffe066";
+                email.textContent = "Copied!";
+                setTimeout(function() {
+                  email.style.background = "";
+                  email.textContent = "sarahwie@umd.edu";
+                }, 1200);
+              });
+          });
+        }
+      });
+    </script>
   </body>
 </html>

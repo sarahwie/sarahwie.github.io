@@ -14,7 +14,7 @@ I work on the **interpretability and transparency of language models (LMs)** and
 <div class="updates-box">
   <ul>
     <li><strong>Fall 2025</strong>: Starting as an assistant professor in the CS department at the University of Maryland. Go terps!</li>
-    <li><strong>Summer 2025</strong>: Congrats to my undergraduate student <a href="https://www.linkedin.com/in/alecbunn/">Alec Bunn</a> on having a paper accepted to the ACL 2025 GEM workshop.</li>
+    <li><strong>Summer 2025</strong>: Congrats to <a href="https://www.linkedin.com/in/alecbunn/">Alec Bunn</a> on having a paper accepted to the ACL 2025 GEM workshop.</li>
     <li><strong>Summer 2025</strong>: Invited talk at University of British Columbia.</li>
     <li><strong>Summer 2025</strong>: Our <a href="https://arxiv.org/abs/2504.13151">Mechanistic Interpretability Benchmark (MIB)</a> was accepted to ICML 2025. Check out the <a href="https://mib-bench.github.io/">website</a> for all the benchmark resources. I am also organizing the <a href="https://actionable-interpretability.github.io/">Actionable Interpretability Workshop</a> at ICML. See you in Vancouver!</li>
     <li><strong>Spring 2025</strong>: <a href="https://openreview.net/forum?id=6NNA0MxhCH">Two</a> <a href="https://openreview.net/forum?id=EDoD3DgivF">papers</a> accepted to ICLR 2025, the former as a spotlight.</li>
@@ -25,7 +25,7 @@ I work on the **interpretability and transparency of language models (LMs)** and
     <li><strong>Fall 2024</strong>: Attending COLM in Philly.</li>
     <li><strong>Fall 2024</strong>: Selected as a <a href="https://genai-workshop.cs.umass.edu/">Rising Star in Generative AI</a>.</li>
     <li><strong>Summer 2024</strong>: Check out our NAACL 2024 tutorial on <a href="https://explanation-llm.github.io/">Explanation in the Era of Large Language Models</a>. See you in Mexico City!</li>
-    <li><strong>Spring 2024</strong>: Our paper led by my intern Peter Hase, <a href="https://arxiv.org/abs/2401.06751">The Unreasonable Effectiveness of Easy Training Data for Hard Tasks</a>, will appear at ACL 2024.</li>
+    <li><strong>Spring 2024</strong>: One paper, <a href="https://arxiv.org/abs/2401.06751">The Unreasonable Effectiveness of Easy Training Data for Hard Tasks</a>, will appear at ACL 2024.</li>
     <li><strong>Spring 2024</strong>: Gave a guest lecture in the graduate-level LLMs course at Washington University in St. Louis.</li>
     <li><strong>Winter 2023</strong>: Recording of Sarthak Jain and I's keynote ("Is Attention = Explanation? Past, Present, and Future") at the Big Picture workshop is available <a href="https://us06web.zoom.us/rec/play/Xp0np80zg8IxSPS_bnXpCBbtM3ffGiP4gT1TMZ3-XGSNhlwIEL8dP0WWLT8YLbjGazumq4vh8q7kL5RZ.Uf8hy5Cejeyk3Jrd?canPlayFromShare=true&from=share_recording_detail&startTime=1701908520000&componentName=rec-play&originRequestUrl=https://us06web.zoom.us/rec/share/RnBM-pPFJKaCxH_4FE0ehJyPw3ZfLxNWe_9SCkylWR40KIDW5y_bey4D_PJ8g2TC.7Dy5zKUm59N50z6y?startTime=1701908520000">here (from 1:57)</a>.</li>
     <li><strong>Winter 2023</strong>: Gave a talk to the Washington State Senate's Environment, Energy, and Technology Committee on "What is AI?".</li>

@@ -341,7 +341,64 @@ footer {
   text-align: center;
 }
 
+.site-description::selection,
+.site-description p::selection {
+  background: $gray;
+  color: $black;
+}
+.site-description::-moz-selection,
+.site-description p::-moz-selection {
+  background: $gray;
+  color: $black;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+.copy-email {
+  transition: background 0.2s;
+  border-radius: 4px;
+  padding: 2px 6px;
+}
+
+.timeline {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 40px;
+  margin: 40px 0;
+}
+
+.timeline-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 120px;
+}
+
+.timeline-logo {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: $lightGray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  border: 3px solid $black;
+  margin-bottom: 12px;
+}
+
+.timeline-logo img {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+}
+
+.timeline-label {
+  text-align: center;
+  font-size: 0.95em;
+  color: $black;
+}
