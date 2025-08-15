@@ -23,7 +23,10 @@
 
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <div class="site-description">{{ site.description | markdownify }}</div>
+            <div class="site-description">
+              {{ site.description | markdownify }}
+              <span id="email" class="copy-email" style="cursor:pointer;">sarahwie@umd.edu</span>
+            </div>
           </div>
           
           <div class="header-right">
