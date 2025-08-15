@@ -352,6 +352,17 @@ footer {
   color: $black;
 }
 
+.site-title::selection,
+.site-title p::selection {
+  background: $gray;
+  color: $black;
+}
+.site-title::-moz-selection,
+.site-title p::-moz-selection {
+  background: $gray;
+  color: $black;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
