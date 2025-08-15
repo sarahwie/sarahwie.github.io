@@ -2,11 +2,11 @@
 layout: default
 ---
 
-Welcome to my personal site! I am a postdoctoral researcher at the [Allen Institute for AI](https://allenai.org/) (Ai2). I am also a member of [H2Lab](https://h2lab.cs.washington.edu/) at the University of Washington. I am advised by [Ashish Sabharwal](https://scholar.google.com/citations?user=7VspfeAAAAAJ&hl=en) and [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/). I received my PhD from Georgia Tech in 2022, advised by Prof. [Mark Riedl](https://eilab-gt.github.io). During my PhD I spent time interning at Google, Sutter Health, and Ai2 (2x), and won the Ai2 Outstanding Intern award.
-
-**In August, I will be starting as an assistant professor in the CS department at the University of Maryland. If you are a current CS graduate student interested in my research, I'd love to hear from you. I will also be offering a graduate seminar (CMSC848R) on LM interpretability in the fall.**
+Welcome to my personal site! If you are a current UMD CS graduate student interested in my research, I'd love to hear from you. I will also be offering a graduate seminar (CMSC848R) on LM interpretability in the fall.
 
 I work on the **interpretability and transparency of language models (LMs)** and other neural networks, with the goal of increasing their reliability, safety, and performance. I also focus on providing natural language explanations for users of LMs.
+
+Previously, I was a postdoctoral researcher at the Allen Institute for AI (Ai2) and the University of Washington, working with Ashish Sabharwal and Hannaneh Hajishirzi. Before that, I received my M.S. and Ph.D. degrees from Georgia Tech, where I was advised by Mark Riedl.
 
 ### [Short Bio for Talks]({{ site.url }}/assets/bio.txt)
 
