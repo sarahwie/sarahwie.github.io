@@ -413,3 +413,10 @@ footer {
   font-size: 0.95em;
   color: $black;
 }
+
+.contact-link {
+  color: $blue;
+  text-decoration: underline;
+  font-weight: 500;
+  cursor: pointer;
+}
