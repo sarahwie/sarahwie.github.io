@@ -1,7 +1,9 @@
 ---
 layout: default
-title: How to Contact Me
+permalink: /contact/
 ---
+
+# How to Contact Me
 
 If you have a **question about my research or papers** or if your request does not fall into the below categories, please email me!
 I [sometimes take up to 1-2 weeks to respond](https://www.nature.com/articles/d41586-024-02381-x.pdf) and do appreciate a reminder email if I have not responded within a week. If your request is more urgent, please include "[Urgent]" in the subject line.

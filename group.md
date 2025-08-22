@@ -3,9 +3,6 @@ layout: default
 permalink: /group/
 ---
 
-# Information for Interested Students
-Coming soon :)
-
 # Current Students
 Coming soon :)
 
