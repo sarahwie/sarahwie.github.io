@@ -2,11 +2,9 @@
 layout: default
 ---
 
-Welcome to my personal site! If you are a current UMD CS graduate student interested in my research, I'd love to hear from you. I will also be offering a graduate seminar (CMSC848R) on LM interpretability in the fall.
+Welcome to my personal site! I am an academic researcher and assistant professor of computer science (CS) working on the **interpretability and transparency of language models (LMs)** and other neural networks, with the goal of increasing their reliability, safety, and performance. I also focus on providing natural language explanations for users of LMs.
 
-I work on the **interpretability and transparency of language models (LMs)** and other neural networks, with the goal of increasing their reliability, safety, and performance. I also focus on providing natural language explanations for users of LMs.
-
-Previously, I was a postdoctoral researcher at the Allen Institute for AI (Ai2) and the University of Washington, working with Ashish Sabharwal and Hannaneh Hajishirzi. Before that, I received my M.S. and Ph.D. degrees from Georgia Tech, where I was advised by Mark Riedl.
+Previously, I was a postdoctoral researcher at the Allen Institute for AI (Ai2) and the University of Washington, working with Ashish Sabharwal and Hannaneh Hajishirzi. Before that, I received my M.S. and Ph.D. degrees in CS from Georgia Tech, where I was advised by Mark Riedl.
 
 ### [Short Bio for Talks]({{ site.url }}/assets/bio.txt)
 
