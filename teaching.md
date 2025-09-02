@@ -4,12 +4,11 @@ permalink: /teaching/
 ---
 
 <details class="course-details" open>
-  <summary><span class="course-title">Fall 2025: CMSC848R Selected Topics in Information Processing; Language Model Interpretability  <details class="course-details" open>
-    <summary>
-      <a href="https://mingliiii.github.io/cmsc848r/" class="course-title" target="_blank" rel="noopener">
-        Fall 2025: CMSC848R Selected Topics in Information Processing; Language Model Interpretability
-      </a>
-    </summary>
+  <summary>
+    <a href="https://mingliiii.github.io/cmsc848r/" class="course-title" target="_blank" rel="noopener">
+      Fall 2025: CMSC848R Selected Topics in Information Processing; Language Model Interpretability
+    </a>
+  </summary>
     <div class="course-info">
       <p><em>This course focuses on state-of-the-art methods for interpreting language models and understanding their learned behaviors. We will discuss approaches centered on both understanding models’ internal mechanisms/representations and attributing behaviors back to the training data. We will focus on model tendencies including hallucination, factuality, memorization, and explanation/reasoning elicitation. If time allows, we will discuss recent developments in ameliorating learned behaviors, such as model editing, unlearning, and steering. This is primarily a seminar course focused on paper readings and presentations.</em></p>
       <p><strong>I am a UMD undergrad. Can I have permission to enroll in your seminar?</strong></p>
