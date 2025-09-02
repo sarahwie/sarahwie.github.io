@@ -5,12 +5,14 @@ layout: default
 Welcome to my personal site! I am an academic researcher and assistant professor of computer science (CS) working on the **interpretability and transparency of language models (LMs)** and other neural networks, with the goal of increasing their reliability, safety, and performance. I also focus on providing natural language explanations for users of LMs.
 
 Previously, I was a postdoctoral researcher at the Allen Institute for AI (Ai2) and the University of Washington, working with Ashish Sabharwal and Hannaneh Hajishirzi. Before that, I received my M.S. and Ph.D. degrees in CS from Georgia Tech, where I was advised by Mark Riedl.
+<!-- I spent time during my PhD at Ai2 working with Ana Marasović, Noah Smith, Swabha Swayamdipta, Jack Hessel, and Yejin Choi; and at Google Brain working with Edward Choi, Gerardo Flores, and Andrew Dai.-->
 
 ### [Short Bio for Talks]({{ site.url }}/assets/bio.txt)
 
 ### Recent Updates
 <div class="updates-box">
   <ul>
+    <li><strong>Fall 2025</strong>: Invited talk at the <a href="https://interplay-workshop.github.io/">Interplay workshop</a> at COLM. See you in Montreal!</li>
     <li><strong>Fall 2025</strong>: Starting as an assistant professor in the CS department at the University of Maryland. Go terps!</li>
     <li><strong>Summer 2025</strong>: Congrats to <a href="https://www.linkedin.com/in/alecbunn/">Alec Bunn</a> on having a paper accepted to the ACL 2025 GEM workshop.</li>
     <li><strong>Summer 2025</strong>: Invited talk at University of British Columbia.</li>
