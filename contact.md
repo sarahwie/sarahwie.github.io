@@ -10,7 +10,7 @@ I [sometimes take up to 1-2 weeks to respond](https://www.nature.com/articles/d4
 
 # Information for Interested Students
 
-If you are **interested in doing research** with me, please fill out this [form](https://forms.gle/cBdPbjnsp6KENGsdA). I will next look at the responses on **Monday, September 1st** for the fall semester.
+If you are **interested in doing research** with me, please fill out this [form](https://forms.gle/cBdPbjnsp6KENGsdA). I will look at the responses every couple of weeks and contact relevant applicants to setup a time for a 30-minute interview.
 
 If you are a **current student** in a full-time PhD, Masters, or undergraduate program at UMD, filling out the above form is sufficient for expressing research interest. If you wish to email me for some other reason, please add the heading "[Current Student]" to your email.
 
