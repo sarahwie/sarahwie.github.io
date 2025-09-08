@@ -8,6 +8,8 @@ permalink: /contact/
 If you have a **question about my research or papers** or if your request does not fall into the below categories, please email me!
 I [sometimes take up to 1-2 weeks to respond](https://www.nature.com/articles/d41586-024-02381-x.pdf) and do appreciate a reminder email if I have not responded within a week. If your request is more urgent, please include "[Urgent]" in the subject line.
 
+**My email:** <span id="email" class="copy-email" style="cursor:pointer;">sarahwie@umd.edu</span>
+
 # Information for Interested Students
 
 If you are **interested in doing research** with me, please fill out this [form](https://forms.gle/cBdPbjnsp6KENGsdA). I will look at the responses every couple of weeks and contact relevant applicants to setup a time for a 30-minute interview.
