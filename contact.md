@@ -6,9 +6,9 @@ permalink: /contact/
 # How to Contact Me
 
 If you have a **question about my research or papers** or if your request does not fall into the below categories, please email me!
-I [sometimes take up to 1-2 weeks to respond](https://www.nature.com/articles/d41586-024-02381-x.pdf) and do appreciate a reminder email if I have not responded within a week. If your request is more urgent, please include "[Urgent]" in the subject line.
+I [sometimes take up to 1-2 weeks to respond](https://www.nature.com/articles/d41586-024-02381-x.pdf) and do appreciate a reminder email if I have not responded within a week. I tend to answer emails on Friday afternoons. If your request is more urgent, please include "[Urgent]" in the subject line.
 
-**My email:** <span id="email" class="copy-email" style="cursor:pointer;">sarahwie@umd.edu</span>
+**My email:** <span id="email" class="copy-email" style="cursor:pointer;">sarahwie\[at\]umd.edu</span>
 
 # Information for Interested Students
 
@@ -26,7 +26,7 @@ Yes; 1-2. Please apply to the Computer Science PhD program by the December deadl
 
 ### Do you have opportunities for undergraduates or masters students in your lab?
 
-Yes; please fill out the [form](https://forms.gle/cBdPbjnsp6KENGsdA).
+Yes (though currently unpaid; volunteer or for course credit only); please fill out the [form](https://forms.gle/cBdPbjnsp6KENGsdA).
 
 ### Are you looking for external student visitors or interns? 
 
