@@ -16,7 +16,11 @@ If you are **interested in doing research** with me, please fill out this [form]
 
 If you are a **current student** in a full-time PhD, Masters, or undergraduate program at UMD, filling out the above form is sufficient for expressing research interest. If you wish to email me for some other reason, please add the heading "[Current Student]" to your email.
 
-If you are a **prospective student**, I plan to admit 1-2 PhD students in the coming (fall 2026 start) cycle. Please apply to the Computer Science PhD program by the December 2025 deadline and mention my name in your application. Please also note that you may be able to get an application fee waiver, but that can take some time, so I recommend requesting it if you are eligible ahead of the application deadline. You may email me once with the header "[Prospective Student]", but unfortunately I almost never have time to read and respond to these emails.
+If you are a **prospective student**, I plan to admit 1-2 PhD students in the coming (fall 2026 start) cycle. Please apply to the Computer Science PhD program [here](https://www.cs.umd.edu/grad/apply) by the **December 5, 2025** deadline and mention my name in your application. 
+
+You may be able to get an application fee waiver by applying [here](https://gradschool.umd.edu/feewaiverinformation) (no deadline, but best to apply with ample time ahead of the deadline) or [here](https://btaa.org/resources-for/students/freeapp/introduction) (for domestic students; Nov. 15 deadline).
+
+You may email me once with the header "[Prospective Student]", but unfortunately I almost never have time to read these emails.
 
 # Q & A
 <!-- 
