@@ -51,8 +51,6 @@ Sarthak Jain, **Sarah Wiegreffe**, Yuval Pinter, Byron Wallace. *Learning to Fai
 
 **Sarah Wiegreffe**+ and Yuval Pinter+. *Attention is not not Explanation*. EMNLP 2019. [PDF](https://www.aclweb.org/anthology/D19-1002/), [code](https://github.com/sarahwie/attention), [conference talk](https://vimeo.com/404731845), [talk slides]({{ site.url }}/assets/emnlp19_slides.pdf), [non-technical blogpost](https://mlatgt.blog/2020/03/25/explaining-machine-learning-models-for-natural-language/)
 
-**Sarah Wiegreffe**, Gerardo Flores, Edward Choi, Andrew Dai. *Learning Bi-Directional Clinical Event Representations: A Comparison of Architectures*. Preprint (available upon request). 2019. 
-
 **Sarah Wiegreffe**, Edward Choi, Sherry Yan, Jimeng Sun, Jacob Eisenstein. *Clinical Concept Extraction for Document-Level Coding*. BioNLP Workshop at ACL 2019. [PDF](https://www.aclweb.org/anthology/W19-5028), [poster]({{ site.url }}/assets/bionlp2019_poster.pdf)
 
 James Mullenbach, **Sarah Wiegreffe**, Jon Duke, Jimeng Sun, Jacob Eisenstein. *Explainable Prediction of Medical Codes from Clinical Text*. NAACL 2018. [PDF](https://www.aclweb.org/anthology/N18-1100), [code](https://github.com/jamesmullenbach/caml-mimic), [talk slides (Google Drive)](https://docs.google.com/presentation/d/1UcUpFK9GyNCBZwqdh3nz1oLTZSmt_jMPKFhvbHbFpxM/edit?usp=sharing)
