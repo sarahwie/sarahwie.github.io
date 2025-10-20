@@ -13,7 +13,7 @@ I [sometimes take up to 1-2 weeks to respond](https://www.nature.com/articles/d4
 # Information for Interested Students
 
 If you are **interested in doing research** with me, please fill out this [form](https://forms.gle/cBdPbjnsp6KENGsdA). I look at the responses every couple of weeks when my group is not at capacity (see below) and contact relevant applicants for 30-minute interviews.
-- Note: I do not have the capacity to work with Masters students in the professional programs at UMD (applied ML, AI, or Data Science), nor with students not at UMD at this time. I am primarily recruiting PhD student collaborators in any discipline (if have the relevant ML background/experience) and Bachelors/Masters students in *Computer Science*.
+- Note: I do not have the capacity to work with Masters students in the professional programs at UMD (applied ML, AI, or Data Science), nor with students not at UMD at this time. I am primarily recruiting 1) PhD student collaborators in any discipline (if have the relevant ML background/experience), and 2) Bachelors/Masters students in Computer Science.
 - Update: my lab is currently (Oct. 2025) at capacity for Bachelors and Masters researchers. I *may* recruit 1-2 more in spring 2026. If you have filled the form since early September 2025 and not heard back from me, this is probably why. You do not need to fill the form again unless you want to update your information.
 - A great way to work with me is through the course projects in my special topics course. If you are in my course, I am happy to discuss your project during office hours or via email!
 
