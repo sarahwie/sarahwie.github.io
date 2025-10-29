@@ -22,7 +22,7 @@ If you are a **current student** in a full-time PhD, Masters, or undergraduate p
 If you are a **prospective student**, I plan to admit 1-2 PhD students in the coming (fall 2026 start) cycle. Please apply to the Computer Science PhD program [here](https://www.cs.umd.edu/grad/apply) by the **December 5, 2025** deadline and mention my name in your application.
 - You may email me once with the header "[Prospective Student]", but unfortunately I almost never have time to read these emails.
 - You may be able to get an application fee waiver by applying [here](https://gradschool.umd.edu/feewaiverinformation) (no deadline, but best to apply with ample time ahead of the deadline) or [here](https://btaa.org/resources-for/students/freeapp/introduction) (for domestic students; Nov. 15 deadline).
-
+- Here are the topics I will be recruiting for/currently interested in, from (roughly) most to least: **steering & inference-time model control**, **developing core (mechanistic) interpretability methods for understanding LLM internal representations and computations**, **chain-of-thought faithfulness and interpreting reasoning models**, **interpreting newer LLM architectures like MoEs and text diffusion models**, **memorization and n-gram LMs**, **interpreting multimodal models**.
 
 # Q & A
 <!-- 
