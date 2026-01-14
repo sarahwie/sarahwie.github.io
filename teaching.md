@@ -5,6 +5,17 @@ permalink: /teaching/
 
 <details class="course-details" open>
   <summary>
+    <a class="course-title" target="_blank" rel="noopener">
+      Spring 2026: CMSC470 Introduction to Natural Language Processing
+    </a>
+  </summary>
+  <div class="course-info">
+    <p>Course schedule and details will be available on Canvas for enrolled students soon.</p>
+  </div>
+</details>
+
+<details class="course-details">
+  <summary>
     <a href="https://mingliiii.github.io/cmsc848r/" class="course-title" target="_blank" rel="noopener">
       Fall 2025: CMSC848R Selected Topics in Information Processing; Language Model Interpretability
     </a>
