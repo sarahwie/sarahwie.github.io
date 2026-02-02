@@ -3,11 +3,16 @@ layout: default
 permalink: /group/
 ---
 
-# Current Students
-Coming soon :)
+# Current Advisees
+- [**Connor Dilgren**](https://scholar.google.com/citations?user=iR7sBAcAAAAJ), UMD MS student
+- [**Kartik Ravisankar**](https://kartik21.github.io/), UMD MS student (with Marine Carpuat)
+- [**Nishkal Hundia**](https://scholar.google.com/citations?user=s_Jw0i4AAAAJ), UMD Undergraduate student
 
 # Current Collaborators
-- [**Shramay Palta**](https://shramay-palta.github.io/), PhD student at the University of Maryland.
+- [**Zahra Sodagar**](https://scholar.google.com/citations?user=zduy_ToAAAAJ), UMD PhD student
+- [**Shramay Palta**](https://shramay-palta.github.io/), UMD PhD student
+- [**Dongping Chen**](https://dongping-chen.github.io/), UMD PhD student
+- [**Apoorva Kulkarni**](https://scholar.google.com/citations?user=VLn30LoAAAAJ), UMD MS student
 
 # Past Advisees and Collaborators
 

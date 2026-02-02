@@ -5,10 +5,15 @@ permalink: /publications/
 ---
 "+" denotes equal contribution.
 
-<!-- # Preprints -->
+# Preprints
+
+Shramay Palta, Peter Rankel, **Sarah Wiegreffe**, Rachel Rudinger. *Everything is Plausible: Investigating the Impact of LLM Rationales on Human Notions of Plausibility*. [arXiv](https://arxiv.org/abs/2510.08091)
+
 # Publications
 
-Alec Bunn, Ben Bogin+, **Sarah Wiegreffe**+. *Fine-Tune on the Format: First Improving Multiple-Choice Evaluation for Intermediate LLM Checkpoints*. GEM workshop at ACL 2025.
+Kartik Ravisankar, Hyojung Han, **Sarah Wiegreffe**, Marine Carpuat. *Can you map it to English? The Role of Cross-Lingual Alignment in Multilingual Performance of LLMs*. EACL 2026. [arXiv](https://arxiv.org/abs/2504.09378)
+
+Alec Bunn, **Sarah Wiegreffe**+ and Ben Bogin+. *Fine-Tune on the Format First: Improving Multiple-Choice Evaluation for Intermediate LLM Checkpoints*. GEM workshop at ACL 2025. [ACL Anthology](https://aclanthology.org/2025.gem-1.46/)
 
 Aaron Mueller+, Atticus Geiger+, **Sarah Wiegreﬀe**, Dana Arad, Iván Arcuschin, Adam Belfki, Yik Siu Chan, Jaden Fried Fiotto-Kaufman, Tal Haklay, Michael Hanna, Jing Huang, Rohan Gupta, Yaniv Nikankin, Hadas Orgad, Nikhil Prakash, Anja Reusch, Aruna Sankaranarayanan, Shun Shao, Alessandro Stolfo, Martin Tutek, Amir Zur, David Bau, Yonatan Belinkov. *MIB: A Mechanistic Interpretability Benchmark*. ICML 2025. [PDF](https://arxiv.org/abs/2504.13151), [Website](https://mib-bench.github.io/), [Leaderboard](https://huggingface.co/spaces/mib-bench/leaderboard), [Datasets](https://huggingface.co/collections/mib-bench/mib-datasets-67f55273612ec3067a42a56b), [Code](https://github.com/aaronmueller/MIB)
 
