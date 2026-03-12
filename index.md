@@ -16,7 +16,7 @@ Previously, I was a postdoctoral researcher at the Allen Institute for AI (Ai2) 
   <ul>
     <li><strong>Spring 2026</strong>: Congrats to <a href="https://kartik21.github.io/">Kartik Ravisankar</a> for having a <a href="https://arxiv.org/abs/2504.09378">paper</a> accepted to EACL.</li>
     <li><strong>Fall 2025</strong>: Invited talk at the <a href="https://interplay-workshop.github.io/">Interplay workshop</a> at COLM. See you in Montreal!</li>
-    <li><strong>Fall 2025</strong>: Starting as an assistant professor in the CS department at the University of Maryland. Go terps!</li>
+    <li><strong>Fall 2025</strong>: Starting as an assistant professor in the CS department at the University of Maryland. Go terps! <a href="https://www.cs.umd.edu/article/2025/08/sarah-wiegreffe-joins-umd%E2%80%99s-cs-faculty">(press release)</a></li>
     <li><strong>Summer 2025</strong>: Congrats to <a href="https://www.linkedin.com/in/alecbunn/">Alec Bunn</a> on having a paper accepted to the ACL 2025 GEM workshop.</li>
     <li><strong>Summer 2025</strong>: Invited talk at University of British Columbia.</li>
     <li><strong>Summer 2025</strong>: Our <a href="https://arxiv.org/abs/2504.13151">Mechanistic Interpretability Benchmark (MIB)</a> was accepted to ICML 2025. Check out the <a href="https://mib-bench.github.io/">website</a> for all the benchmark resources. I am also organizing the <a href="https://actionable-interpretability.github.io/">Actionable Interpretability Workshop</a> at ICML. See you in Vancouver!</li>
