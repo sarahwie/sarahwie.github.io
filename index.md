@@ -2,9 +2,11 @@
 layout: default
 ---
 
-Welcome to my personal site! I am an academic researcher and assistant professor of computer science (CS) working on the **interpretability and transparency of language models (LMs)** and other neural networks, with the goal of increasing their reliability, safety, and performance. I also focus on providing natural language explanations for users of LMs.
+I am a tenure-track assistant professor in the Department of Computer Science at the University of Maryland, College Park (UMD). I am a member of the [CLIP (Computational Linguistics and Information Processing) lab](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) and also affiliated with the [Institute for Advanced Computer Study (UMIACS)](https://www.umiacs.umd.edu/).
 
-Previously, I was a postdoctoral researcher at the Allen Institute for AI (Ai2) and the University of Washington, working with [Ashish Sabharwal](https://scholar.google.com/citations?user=7VspfeAAAAAJ) and [Hannaneh Hajishirzi](https://hannaneh.ai/). Before that, I received my M.S. and Ph.D. degrees in CS from Georgia Tech, where I was advised by [Mark Riedl](https://eilab.gatech.edu/mark-riedl.html).
+My expertise is at at the intersection of natural language processing (NLP), empirical machine learning, and explainable AI. I research the **interpretability and transparency of language models (LMs)** and other neural networks, with the goal of increasing their reliability, safety, and performance. I also focus on providing natural language explanations for users of LMs that are faithful to models' internal operations.
+
+Previously, I was a postdoctoral researcher at the Allen Institute for AI (Ai2) and the University of Washington, working with [Ashish Sabharwal](https://scholar.google.com/citations?user=7VspfeAAAAAJ) and [Hannaneh Hajishirzi](https://hannaneh.ai/). Before that, I received my M.S. and Ph.D. degrees in computer science from Georgia Tech, where I was advised by [Mark Riedl](https://eilab.gatech.edu/mark-riedl.html).
 <!-- I spent time during my PhD at Ai2 working with Ana Marasović, Noah Smith, Swabha Swayamdipta, Jack Hessel, and Yejin Choi; and at Google Brain working with Edward Choi, Gerardo Flores, and Andrew Dai.-->
 
 <!-- **I am recruiting 2 PhD students to start fall 2026. UMD CS' application deadline is December 5, 2025. Please see my "Contact" page for more info, including topics of interest.** -->
@@ -14,6 +16,7 @@ Previously, I was a postdoctoral researcher at the Allen Institute for AI (Ai2) 
 ### Recent Updates
 <div class="updates-box">
   <ul>
+    <li><strong>Spring 2026</strong>: A couple of recent news articles about our research: <a href="https://www.cs.umd.edu/article/2026/02/sarah-wiegreffe-understanding-ai-systems">UMD CS Department</a>, <a href="https://www.umiacs.umd.edu/news-events/news/making-ai-more-understandable-and-controllable">UMIACS</a></li>
     <li><strong>Spring 2026</strong>: Congrats to <a href="https://kartik21.github.io/">Kartik Ravisankar</a> for having a <a href="https://arxiv.org/abs/2504.09378">paper</a> accepted to EACL.</li>
     <li><strong>Fall 2025</strong>: Invited talk at the <a href="https://interplay-workshop.github.io/">Interplay workshop</a> at COLM. See you in Montreal!</li>
     <li><strong>Fall 2025</strong>: Starting as an assistant professor in the CS department at the University of Maryland. Go terps! <a href="https://www.cs.umd.edu/article/2025/08/sarah-wiegreffe-joins-umd%E2%80%99s-cs-faculty">press release.</a></li>
