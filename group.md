@@ -9,10 +9,10 @@ permalink: /group/
 - [**Nishkal Hundia**](https://www.nishkal.xyz/), UMD Undergraduate student
 
 # Current Collaborators
-- [**Stephen Cheng**](https://step-cheng.github.io/), UMD PhD student
 - [**Daniel Palamarchuk**](https://danilka4.github.io/), UMD PhD student
 - [**Navita Goyal**](https://navitagoyal.github.io/), UMD PhD student
 - [**Shramay Palta**](https://shramay-palta.github.io/), UMD PhD student
+- [**Stephen Cheng**](https://step-cheng.github.io/), UMD PhD student
 - [**Zahra Sodagar**](https://zahrasodagar.github.io/), UMD PhD student
 
 # Past Advisees and Collaborators

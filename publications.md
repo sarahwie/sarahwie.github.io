@@ -3,6 +3,9 @@ layout: default
 # title: Preprints
 permalink: /publications/
 ---
+
+# No longer up-to-date as of 2026; please check [Google Scholar](https://scholar.google.com/citations?hl=en&user=YoR3IugAAAAJ&view_op=list_works&sortby=pubdate).
+
 "+" denotes equal contribution.
 
 # Preprints
