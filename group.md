@@ -3,23 +3,24 @@ layout: default
 permalink: /group/
 ---
 
-# Current Advisees
-- [**Connor Dilgren**](https://scholar.google.com/citations?user=iR7sBAcAAAAJ), UMD MS student
+# Current Advisees (alphabetical)
+- [**Bin Hu**](https://www.cs.umd.edu/~hubin/), UMD MS student
+- [**Connor Dilgren**](https://scholar.google.com/citations?user=iR7sBAcAAAAJ), UMD MS-->PhD student
 - [**Kartik Ravisankar**](https://kartik21.github.io/), UMD MS student (with Marine Carpuat)
 - [**Nishkal Hundia**](https://www.nishkal.xyz/), UMD Undergraduate student
+- [**Stephen Cheng**](https://step-cheng.github.io/), UMD PhD student (with Dinesh Manocha)
 
-# Current Collaborators
+# Current Collaborators (alphabetical)
 - [**Daniel Palamarchuk**](https://danilka4.github.io/), UMD PhD student
 - [**Navita Goyal**](https://navitagoyal.github.io/), UMD PhD student
 - [**Shramay Palta**](https://shramay-palta.github.io/), UMD PhD student
-- [**Stephen Cheng**](https://step-cheng.github.io/), UMD PhD student
 - [**Zahra Sodagar**](https://zahrasodagar.github.io/), UMD PhD student
 
-# Past Advisees and Collaborators
+# Past Advisees and Collaborators (approx. reverse temporal)
 
-- [**Apoorva Kulkarni**](https://apoorva-ak.github.io/), UMD MS student advised by Ramani Duraiswami and Dinesh Manocha
-- [**Dongping Chen**](https://dongping-chen.github.io/), UMD PhD student advised by Tianyi Zhou
-- [**Alec Bunn**](https://www.linkedin.com/in/alecbunn/), undergraduate student at the University of Washington.
+- [**Apoorva Kulkarni**](https://apoorva-ak.github.io/), UMD MS student advised by Ramani Duraiswami and Dinesh Manocha.
+- [**Dongping Chen**](https://dongping-chen.github.io/), UMD PhD student advised by Tianyi Zhou.
+- [**Alec Bunn**](https://www.linkedin.com/in/alecbunn/), undergraduate student at the University of Washington --> PhD student at Arizona State.
 - [**Jack Merullo**](https://jmerullo.github.io/), Ai2 intern & PhD student at Brown University.
 - [**Peter Hase**](https://peterbhase.github.io/), Ai2 intern & PhD student at UNC Chapel Hill.
 - [**Joris Baan**](https://jorisbaan.nl/), Ai2 intern & PhD student at the University of Amsterdam.
