@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I am a tenure-track assistant professor in the Department of Computer Science at the University of Maryland, College Park (UMD). I am a member of the [CLIP (Computational Linguistics and Information Processing) lab](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) and also affiliated with the [Institute for Advanced Computer Study (UMIACS)](https://www.umiacs.umd.edu/).
+I am a tenure-track assistant professor in the Department of Computer Science at the University of Maryland, College Park (UMD). I am a member of the [CLIP (Computational Linguistics and Information Processing) lab](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) and also affiliated with UMD's [AI Interdisciplinary Institute (AIM)](https://aim.umd.edu/) and [Institute for Advanced Computer Study (UMIACS)](https://www.umiacs.umd.edu/).
 
-My expertise is at at the intersection of natural language processing (NLP), empirical machine learning, and explainable AI. I research the **interpretability and transparency of language models (LMs)** and other neural networks, with the goal of increasing their reliability, safety, and performance. I also focus on providing natural language explanations for users of LMs that are faithful to models' internal operations.
+My expertise is at the intersection of natural language processing (NLP), empirical machine learning, and explainable AI. I research the **interpretability of language models (LMs)** and other neural networks, with the goal of increasing their transparency, reliability, safety, and utility. I also focus on providing natural language explanations to users of LMs that are faithful to models' internal operations.
 
 Previously, I was a postdoctoral researcher at the Allen Institute for AI (Ai2) and the University of Washington, working with [Ashish Sabharwal](https://scholar.google.com/citations?user=7VspfeAAAAAJ) and [Hannaneh Hajishirzi](https://hannaneh.ai/). Before that, I received my M.S. and Ph.D. degrees in computer science from Georgia Tech, where I was advised by [Mark Riedl](https://eilab.gatech.edu/mark-riedl.html).
 <!-- I spent time during my PhD at Ai2 working with Ana Marasović, Noah Smith, Swabha Swayamdipta, Jack Hessel, and Yejin Choi; and at Google Brain working with Edward Choi, Gerardo Flores, and Andrew Dai.-->
@@ -16,8 +16,13 @@ Previously, I was a postdoctoral researcher at the Allen Institute for AI (Ai2) 
 ### Recent Updates
 <div class="updates-box">
   <ul>
+    <li><strong>Spring 2026</strong>: Thanks to Coefficient Giving for supporting the lab's work on chain-of-thought monitoring. <a href="https://www.umiacs.umd.edu/news-events/news/wiegreffe-receives-grant-stress-test-future-ai-transparency">Press Release</a></li>
+    <li><strong>Spring 2026</strong>: Congrats to Connor on having a <a href="https://openreview.net/forum?id=L4k8rbmwrr#discussion">paper</a> on interpreting latent reasoning models at the ICLR Latent & Implicit Reasoning workshop.</li>
+    <li><strong>Spring 2026</strong>: Congrats to Chenlong, Yuhang, Zhihan, and Dongping on their CVPR Findings <a href="https://arxiv.org/abs/2602.02140">paper</a> (and my first paper at a vision conference).</li>
+    <li><strong>Spring 2026</strong>: New preprint <a href="https://actionable-interpretability-guide.github.io/">position paper</a>, led by Hadas Orgad, on ``Actionable Interpretability'' that spun out of <a href="https://actionable-interpretability.github.io/">our ICML 2025 workshop</a>.</li>
     <li><strong>Spring 2026</strong>: A couple of recent news articles about our research: <a href="https://www.cs.umd.edu/article/2026/02/sarah-wiegreffe-understanding-ai-systems">UMD CS Department</a>, <a href="https://www.umiacs.umd.edu/news-events/news/making-ai-more-understandable-and-controllable">UMIACS</a></li>
-    <li><strong>Spring 2026</strong>: Congrats to <a href="https://kartik21.github.io/">Kartik Ravisankar</a> for having a <a href="https://arxiv.org/abs/2504.09378">paper</a> accepted to EACL.</li>
+    <li><strong>Spring 2026</strong>: Congrats to <a href="https://kartik21.github.io/">Kartik</a> for having a <a href="https://arxiv.org/abs/2504.09378">paper</a> accepted to EACL.</li>
+    <li><strong>Fall 2025</strong>: (Remote) invited talks at UCLA and Cambridge.</li>
     <li><strong>Fall 2025</strong>: Invited talk at the <a href="https://interplay-workshop.github.io/">Interplay workshop</a> at COLM. See you in Montreal!</li>
     <li><strong>Fall 2025</strong>: Starting as an assistant professor in the CS department at the University of Maryland. Go terps! <a href="https://www.cs.umd.edu/article/2025/08/sarah-wiegreffe-joins-umd%E2%80%99s-cs-faculty">press release.</a></li>
     <li><strong>Summer 2025</strong>: Congrats to <a href="https://www.linkedin.com/in/alecbunn/">Alec Bunn</a> on having a paper accepted to the ACL 2025 GEM workshop.</li>
@@ -47,4 +52,24 @@ Previously, I was a postdoctoral researcher at the Allen Institute for AI (Ai2) 
     <li><strong>Fall 2022</strong>: Two <a href="https://arxiv.org/abs/2204.07693">Findings</a> <a href="https://arxiv.org/abs/2105.01311">papers</a> at EMNLP 2022.</li>
     <li><strong>Fall 2022</strong>: Co-organizing the <a href="https://blackboxnlp.github.io/2022/">BlackBoxNLP</a> workshop at EMNLP 2022. See you in Abu Dhabi!</li>
   </ul>
+</div>
+
+
+<p style="font-weight: bold; color: black; font-size: 1.1em; margin-top: 50px; margin-bottom: -30px;">We are grateful to the following sponsors for their support of our research:</p>
+<div style="display: flex; flex-direction: row; gap: 60px; align-items: flex-start; flex-wrap: wrap;">
+  <div>
+    <a href="https://coefficientgiving.org/" target="_blank" rel="noopener">
+      <img src="{{ site.baseurl }}/assets/sponsors/cg.png" alt="Sponsor" style="width: 250px; height: 250px; object-fit: contain; border-radius: 8px;">
+    </a>
+  </div>
+  <div>
+    <a href="https://aim.umd.edu/" target="_blank" rel="noopener">
+      <img src="{{ site.baseurl }}/assets/sponsors/aim.webp" alt="Sponsor" style="width: 300px; height: 300px; object-fit: contain; border-radius: 8px;">
+    </a>
+  </div>
+  <div>
+    <a href="https://nairrpilot.org/" target="_blank" rel="noopener">
+      <img src="{{ site.baseurl }}/assets/sponsors/nairr.png" alt="Sponsor" style="width: 320px; height: 320px; object-fit: contain; border-radius: 8px;">
+    </a>
+  </div>
 </div>

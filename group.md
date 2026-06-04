@@ -3,31 +3,60 @@ layout: default
 permalink: /group/
 ---
 
-# Current Advisees (alphabetical)
-- [**Bin Hu**](https://www.cs.umd.edu/~hubin/), UMD MS student
-- [**Connor Dilgren**](https://scholar.google.com/citations?user=iR7sBAcAAAAJ), UMD MS-->PhD student
-- [**Kartik Ravisankar**](https://kartik21.github.io/), UMD MS student (with Marine Carpuat)
-- [**Nishkal Hundia**](https://www.nishkal.xyz/), UMD Undergraduate student
-- [**Stephen Cheng**](https://step-cheng.github.io/), UMD PhD student (with Dinesh Manocha)
+# PhD Students
 
-# Current Collaborators (alphabetical)
-- [**Daniel Palamarchuk**](https://danilka4.github.io/), UMD PhD student
-- [**Navita Goyal**](https://navitagoyal.github.io/), UMD PhD student
-- [**Shramay Palta**](https://shramay-palta.github.io/), UMD PhD student
-- [**Zahra Sodagar**](https://zahrasodagar.github.io/), UMD PhD student
+<div style="display: flex; flex-direction: row; gap: 60px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 80px;">
+  <div style="text-align: center;">
+    <img src="{{ site.baseurl }}/assets/students/stephen.jpg" alt="Stephen Cheng" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px;">
+    <p style="margin-top: 10px; margin-bottom: 5px; font-weight: bold;"><a href="https://step-cheng.github.io/" target="_blank" rel="noopener">Stephen Cheng</a></p>
+    <p style="margin: 0; font-size: 0.9em; color: #666;">CS PhD (2025-)</p>
+    <p style="margin: 0; font-size: 0.85em; color: #888;">Co-advised with Dinesh Manocha</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="{{ site.baseurl }}/assets/students/connor.jpg" alt="Connor Dilgren" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px;">
+    <p style="margin-top: 10px; margin-bottom: 5px; font-weight: bold;"><a href="https://connordilgren.github.io/" target="_blank" rel="noopener">Connor Dilgren</a></p>
+    <p style="margin: 0; font-size: 0.9em; color: #666;">CS PhD (2026-)</p>
+    <p style="margin: 0; font-size: 0.85em; color: #888;"></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="{{ site.baseurl }}/assets/students/yiksiu.jpg" alt="Yik Siu Chan" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px;">
+    <p style="margin-top: 10px; margin-bottom: 5px; font-weight: bold;"><a href="https://yiksiu-chan.github.io/" target="_blank" rel="noopener">Yik Siu Chan</a></p>
+    <p style="margin: 0; font-size: 0.9em; color: #666;">CS PhD (2026-)</p>
+    <p style="margin: 0; font-size: 0.85em; color: #888;">Co-advised with Hal Daumé III</p>
+  </div>
+</div>
 
-# Past Advisees and Collaborators (approx. reverse temporal)
+# Group Photos
 
-- [**Apoorva Kulkarni**](https://apoorva-ak.github.io/), UMD MS student advised by Ramani Duraiswami and Dinesh Manocha.
-- [**Dongping Chen**](https://dongping-chen.github.io/), UMD PhD student advised by Tianyi Zhou.
-- [**Alec Bunn**](https://www.linkedin.com/in/alecbunn/), undergraduate student at the University of Washington --> PhD student at Arizona State.
-- [**Jack Merullo**](https://jmerullo.github.io/), Ai2 intern & PhD student at Brown University.
-- [**Peter Hase**](https://peterbhase.github.io/), Ai2 intern & PhD student at UNC Chapel Hill.
-- [**Joris Baan**](https://jorisbaan.nl/), Ai2 intern & PhD student at the University of Amsterdam.
-- [**Matthew Finlayson**](https://mattf1n.github.io/), predoctoral researcher at Ai2.
-- [**Anshita Gupta**](https://www.linkedin.com/in/anshitag/), Master's student at UMass Amherst.
-- [**Debanjan Mondal**](https://debanjanmondal702.github.io/), Master's student at UMass Amherst.
-- [**Akshay Krishna Sheshadri**](https://www.linkedin.com/in/akshay-sheshadri/), Master's student at UMass Amherst.
-- [**Kaige Xie**](https://scholar.google.com/citations?user=EqA1cskAAAAJ), PhD student at Georgia Tech.
-- [**Xiangyu Peng**](https://xiangyu-peng.github.io/), PhD student at Georgia Tech.
-- [**Siyan Li**](https://siyan-sylvia-li.com/), undergraduate student at Georgia Tech.
+<div style="position: relative; width: 600px; margin: 0;">
+  <div style="position: relative; width: 600px; height: auto;">
+    <img id="carouselImg" src="{{ site.baseurl }}/assets/group/sp26_01.jpg" alt="Group photo" style="width: 600px; height: auto; border-radius: 8px; display: block;">
+  </div>
+  <button onclick="previousPhoto()" style="position: absolute; left: -60px; top: 50%; transform: translateY(-50%); background: none; border: none; font-size: 32px; cursor: pointer; color: #666;">❮</button>
+  <button onclick="nextPhoto()" style="position: absolute; right: -60px; top: 50%; transform: translateY(-50%); background: none; border: none; font-size: 32px; cursor: pointer; color: #666;">❯</button>
+  <p id="photoCounter" style="text-align: left; margin-top: 10px; font-size: 0.9em; color: #666;">1 of 3</p>
+</div>
+
+<script>
+  const photos = [
+    "{{ site.baseurl }}/assets/group/sp26_01.jpg",
+    "{{ site.baseurl }}/assets/group/sp26_02.jpeg",
+    "{{ site.baseurl }}/assets/group/sp26_03.jpg"
+  ];
+  let currentPhotoIndex = 0;
+
+  function updatePhoto() {
+    document.getElementById('carouselImg').src = photos[currentPhotoIndex];
+    document.getElementById('photoCounter').textContent = (currentPhotoIndex + 1) + ' of ' + photos.length;
+  }
+
+  function nextPhoto() {
+    currentPhotoIndex = (currentPhotoIndex + 1) % photos.length;
+    updatePhoto();
+  }
+
+  function previousPhoto() {
+    currentPhotoIndex = (currentPhotoIndex - 1 + photos.length) % photos.length;
+    updatePhoto();
+  }
+</script>
