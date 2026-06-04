@@ -16,12 +16,18 @@ Previously, I was a postdoctoral researcher at the Allen Institute for AI (Ai2) 
 ### Recent Updates
 <div class="updates-box">
   <ul>
+    <li><strong>Fall 2026</strong>: The <a href="https://actionable-interpretability.github.io/">Actionable Interpretability</a> workshop will be happening again at COLM 2026! Submit by June 21st.</li>
+    <li><strong>Summer 2026</strong>: I'll be at ICML.</li>
+    <li><strong>Summer 2026</strong>: I'll be speaking at the <a href="https://cfe.columbia.edu/content/mlss2">Columbia ML Summer School</a>.</li>
+    <li><strong>Summer 2026</strong>: New ICML <a href="https://actionable-interpretability-guide.github.io/">position paper</a> on "Actionable Interpretability", led by Hadas Orgad, that spun out of <a href="https://actionable-interpretability.github.io/">our ICML 2025 workshop</a>.</li>
+    <li><strong>Summer 2026</strong>: Congrats to <a href="https://shramay-palta.github.io/">Shramay</a> for having a <a href="https://arxiv.org/abs/2510.08091">paper</a> accepted to ACL.</li>
+    <li><strong>Summer 2026</strong>: Congrats to Chenlong, Yuhang, Zhihan, and Dongping on their CVPR Findings <a href="https://arxiv.org/abs/2602.02140">paper</a> (and my first paper at a vision conference).</li>
     <li><strong>Spring 2026</strong>: Thanks to Coefficient Giving for supporting the lab's work on chain-of-thought monitoring. <a href="https://www.umiacs.umd.edu/news-events/news/wiegreffe-receives-grant-stress-test-future-ai-transparency">Press Release</a></li>
-    <li><strong>Spring 2026</strong>: Congrats to Connor on having a <a href="https://openreview.net/forum?id=L4k8rbmwrr#discussion">paper</a> on interpreting latent reasoning models at the ICLR Latent & Implicit Reasoning workshop.</li>
-    <li><strong>Spring 2026</strong>: Congrats to Chenlong, Yuhang, Zhihan, and Dongping on their CVPR Findings <a href="https://arxiv.org/abs/2602.02140">paper</a> (and my first paper at a vision conference).</li>
-    <li><strong>Spring 2026</strong>: New preprint <a href="https://actionable-interpretability-guide.github.io/">position paper</a>, led by Hadas Orgad, on ``Actionable Interpretability'' that spun out of <a href="https://actionable-interpretability.github.io/">our ICML 2025 workshop</a>.</li>
+    <li><strong>Spring 2026</strong>: New <a href="https://arxiv.org/abs/2604.08524">preprint</a>, led by Stephen, on tracing steering vector circuits for steering long-form generation.</li>
+    <li><strong>Spring 2026</strong>: Congrats to Connor for having a <a href="https://arxiv.org/abs/2604.04902">paper</a> on interpreting latent reasoning models at the ICLR Latent & Implicit Reasoning workshop.</li>
     <li><strong>Spring 2026</strong>: A couple of recent news articles about our research: <a href="https://www.cs.umd.edu/article/2026/02/sarah-wiegreffe-understanding-ai-systems">UMD CS Department</a>, <a href="https://www.umiacs.umd.edu/news-events/news/making-ai-more-understandable-and-controllable">UMIACS</a></li>
     <li><strong>Spring 2026</strong>: Congrats to <a href="https://kartik21.github.io/">Kartik</a> for having a <a href="https://arxiv.org/abs/2504.09378">paper</a> accepted to EACL.</li>
+    <li><strong>Fall 2025</strong>: I'm now a member of the NSF National Deep Inference Fabric's <a href="https://ndif.us/about.html">advisory board</a>.</li>
     <li><strong>Fall 2025</strong>: (Remote) invited talks at UCLA and Cambridge.</li>
     <li><strong>Fall 2025</strong>: Invited talk at the <a href="https://interplay-workshop.github.io/">Interplay workshop</a> at COLM. See you in Montreal!</li>
     <li><strong>Fall 2025</strong>: Starting as an assistant professor in the CS department at the University of Maryland. Go terps! <a href="https://www.cs.umd.edu/article/2025/08/sarah-wiegreffe-joins-umd%E2%80%99s-cs-faculty">press release.</a></li>
