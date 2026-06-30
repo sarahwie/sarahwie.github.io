@@ -16,7 +16,7 @@ Previously, I was a postdoctoral researcher at the Allen Institute for AI (Ai2) 
 ### Recent Updates
 <div class="updates-box">
   <ul>
-    <li><strong>Fall 2026</strong>: The <a href="https://actionable-interpretability.github.io/">Actionable Interpretability</a> workshop will be happening again at COLM 2026! Submit by June 21st.</li>
+    <li><strong>Fall 2026</strong>: The <a href="https://actionable-interpretability.github.io/">Actionable Interpretability</a> workshop will be happening again at COLM 2026! Submit by June <s>21st</s> 24th.</li>
     <li><strong>Summer 2026</strong>: I'll be at ICML.</li>
     <li><strong>Summer 2026</strong>: I'll be speaking at the <a href="https://cfe.columbia.edu/content/mlss2">Columbia ML Summer School</a>.</li>
     <li><strong>Summer 2026</strong>: New ICML <a href="https://actionable-interpretability-guide.github.io/">position paper</a> on "Actionable Interpretability", led by Hadas Orgad, that spun out of <a href="https://actionable-interpretability.github.io/">our ICML 2025 workshop</a>.</li>
@@ -66,6 +66,11 @@ Previously, I was a postdoctoral researcher at the Allen Institute for AI (Ai2) 
   <div>
     <a href="https://coefficientgiving.org/" target="_blank" rel="noopener">
       <img src="{{ site.baseurl }}/assets/sponsors/cg.png" alt="Sponsor" style="width: 250px; height: 250px; object-fit: contain; border-radius: 8px;">
+    </a>
+  </div>
+  <div>
+    <a href="https://allenai.org/" target="_blank" rel="noopener">
+      <img src="{{ site.baseurl }}/assets/sponsors/ai2.webp" alt="Sponsor" style="width: 320px; height: 320px; object-fit: contain; border-radius: 8px;">
     </a>
   </div>
   <div>
