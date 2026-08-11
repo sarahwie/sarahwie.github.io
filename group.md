@@ -60,3 +60,6 @@ permalink: /group/
     updatePhoto();
   }
 </script>
+
+# Alumni
+**<a href="https://www.nishkal.xyz/" >Nishkal Hundia</a>**, B.S. 2026, CS & Math --> PhD student at Boston University

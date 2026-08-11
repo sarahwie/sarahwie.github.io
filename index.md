@@ -16,10 +16,16 @@ Previously, I was a postdoctoral researcher at the Allen Institute for AI (Ai2) 
 ### Recent Updates
 <div class="updates-box">
   <ul>
+    <li><strong>Fall 2026</strong>: Thanks to AI2, <a href="https://today.umd.edu/aim-seed-grants-support-11-ai-research-projects">AIM</a>, and <a href="https://withmartian.com/prize">Martian</a> for recent funding supporting the lab.</li>
+    <li><strong>Fall 2026</strong>: One <a href="https://arxiv.org/abs/2604.04902">paper</a> at COLM on interpreting latent reasoning models.</li>
+    <li><strong>Fall 2026</strong>: One <a href="https://arxiv.org/abs/2606.17417">paper</a> at Interspeech on interpreting audio LMs.</li>
     <li><strong>Fall 2026</strong>: The <a href="https://actionable-interpretability.github.io/">Actionable Interpretability</a> workshop will be happening again at COLM 2026! Submit by June <s>21st</s> 24th.</li>
-    <li><strong>Summer 2026</strong>: I'll be at ICML.</li>
+    <li><strong>Summer 2026</strong>: We will be at <a href="https://nemiconf.github.io/summer26/">NEMI</a>!</li>
+    <li><strong>Summer 2026</strong>: Recent preprints on <a href="https://arxiv.org/abs/2606.07631">contrastive linear directions predictive of emergent misalignment</a> and <a href="https://arxiv.org/abs/2606.12818">finding circuits that drive cognitive anchoring behavior in LLMs</a>.</li>
+    <li><strong>Summer 2026</strong>: Congrats to Nishkal, Swastik, and Navita on their <a href="https://openreview.net/forum?id=9E4EQKTQts">paper on predicting steering vector success from geometric properties</a> accepted to the Mechanistic Interpretability workshop at ICML. <a href="https://mechinterpworkshop.com/poster-pdfs/495.pdf">Poster.</a> Full paper coming soon!</li>
+    <li><strong>Summer 2026</strong>: I'll be at ICML; also on a <a href="https://kaist-icml.github.io/">panel at KAIST</a> on LM Reliability & Safety.</li>
     <li><strong>Summer 2026</strong>: I'll be speaking at the <a href="https://cfe.columbia.edu/content/mlss2">Columbia ML Summer School</a>.</li>
-    <li><strong>Summer 2026</strong>: New ICML <a href="https://actionable-interpretability-guide.github.io/">position paper</a> on "Actionable Interpretability", led by Hadas Orgad, that spun out of <a href="https://actionable-interpretability.github.io/">our ICML 2025 workshop</a>.</li>
+    <li><strong>Summer 2026</strong>: New ICML <a href="https://actionable-interpretability-guide.github.io/">position paper</a> on "Actionable Interpretability" that spun out of <a href="https://actionable-interpretability.github.io/">our ICML 2025 workshop</a>.</li>
     <li><strong>Summer 2026</strong>: Congrats to <a href="https://shramay-palta.github.io/">Shramay</a> for having a <a href="https://arxiv.org/abs/2510.08091">paper</a> accepted to ACL.</li>
     <li><strong>Summer 2026</strong>: Congrats to Chenlong, Yuhang, Zhihan, and Dongping on their CVPR Findings <a href="https://arxiv.org/abs/2602.02140">paper</a> (and my first paper at a vision conference).</li>
     <li><strong>Spring 2026</strong>: Thanks to Coefficient Giving for supporting the lab's work on chain-of-thought monitoring. <a href="https://www.umiacs.umd.edu/news-events/news/wiegreffe-receives-grant-stress-test-future-ai-transparency">Press Release</a></li>
@@ -61,26 +67,26 @@ Previously, I was a postdoctoral researcher at the Allen Institute for AI (Ai2) 
 </div>
 
 
-<p style="font-weight: bold; color: black; font-size: 1.1em; margin-top: 50px; margin-bottom: -30px;">We are grateful to the following sponsors for their support of our research:</p>
-<div style="display: flex; flex-direction: row; gap: 60px; align-items: flex-start; flex-wrap: wrap;">
-  <div>
+<p style="font-weight: bold; color: black; font-size: 1.1em; margin-top: 50px; margin-bottom: 20px;">We are grateful to the following sponsors for their support of our research:</p>
+<div style="display: flex; flex-direction: row; gap: 24px; align-items: center; justify-content: center; flex-wrap: nowrap; overflow-x: auto; padding-bottom: 8px;">
+  <div style="flex: 0 0 auto;">
     <a href="https://coefficientgiving.org/" target="_blank" rel="noopener">
-      <img src="{{ site.baseurl }}/assets/sponsors/cg.png" alt="Sponsor" style="width: 250px; height: 250px; object-fit: contain; border-radius: 8px;">
+      <img src="{{ site.baseurl }}/assets/sponsors/cg.png" alt="Sponsor" style="width: 140px; height: 80px; object-fit: contain; border-radius: 8px;">
     </a>
   </div>
-  <div>
+  <div style="flex: 0 0 auto;">
     <a href="https://allenai.org/" target="_blank" rel="noopener">
-      <img src="{{ site.baseurl }}/assets/sponsors/ai2.webp" alt="Sponsor" style="width: 320px; height: 320px; object-fit: contain; border-radius: 8px;">
+      <img src="{{ site.baseurl }}/assets/sponsors/ai2.webp" alt="Sponsor" style="width: 140px; height: 80px; object-fit: contain; border-radius: 8px;">
     </a>
   </div>
-  <div>
+  <div style="flex: 0 0 auto;">
     <a href="https://aim.umd.edu/" target="_blank" rel="noopener">
-      <img src="{{ site.baseurl }}/assets/sponsors/aim.webp" alt="Sponsor" style="width: 300px; height: 300px; object-fit: contain; border-radius: 8px;">
+      <img src="{{ site.baseurl }}/assets/sponsors/aim.webp" alt="Sponsor" style="width: 140px; height: 80px; object-fit: contain; border-radius: 8px;">
     </a>
   </div>
-  <div>
+  <div style="flex: 0 0 auto;">
     <a href="https://nairrpilot.org/" target="_blank" rel="noopener">
-      <img src="{{ site.baseurl }}/assets/sponsors/nairr.png" alt="Sponsor" style="width: 320px; height: 320px; object-fit: contain; border-radius: 8px;">
+      <img src="{{ site.baseurl }}/assets/sponsors/nairr.png" alt="Sponsor" style="width: 140px; height: 80px; object-fit: contain; border-radius: 8px;">
     </a>
   </div>
 </div>
