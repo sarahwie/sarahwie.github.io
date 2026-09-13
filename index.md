@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a tenure-track assistant professor in the Department of Computer Science at the University of Maryland, College Park (UMD). I am a member of the [CLIP (Computational Linguistics and Information Processing) lab](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) and also affiliated with UMD's [AI Interdisciplinary Institute (AIM)](https://aim.umd.edu/) and [Institute for Advanced Computer Study (UMIACS)](https://www.umiacs.umd.edu/).
+I am a tenure-track assistant professor in the Department of Computer Science at the University of Maryland, College Park (UMD). I am a member of the [CLIP (Computational Linguistics and Information Processing) lab](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page).
 
 My expertise is at the intersection of natural language processing (NLP), empirical machine learning, and explainable AI. I research the **interpretability of language models (LMs)** and other neural networks, with the goal of increasing their transparency, reliability, safety, and utility. I also focus on providing natural language explanations to users of LMs that are faithful to models' internal operations.
 
@@ -16,7 +16,8 @@ Previously, I was a postdoctoral researcher at the Allen Institute for AI (Ai2) 
 ### Recent Updates
 <div class="updates-box">
   <ul>
-    <li><strong>Fall 2026</strong>: Thanks to AI2, <a href="https://today.umd.edu/aim-seed-grants-support-11-ai-research-projects">AIM</a>, and <a href="https://withmartian.com/prize">Martian</a> for recent funding supporting the lab.</li>
+    <li><strong>Fall 2026</strong>: Thanks to AI2, <a href="https://www.umiacs.umd.edu/news-events/news/clip-researchers-receive-aim-seed-grant-study-roots-ai-bias">AIM</a>, and <a href="https://withmartian.com/prize">Martian</a> for recent funding supporting the lab.</li>
+    <!-- https://today.umd.edu/aim-seed-grants-support-11-ai-research-projects -->
     <li><strong>Fall 2026</strong>: One <a href="https://arxiv.org/abs/2604.04902">paper</a> at COLM on interpreting latent reasoning models.</li>
     <li><strong>Fall 2026</strong>: One <a href="https://arxiv.org/abs/2606.17417">paper</a> at Interspeech on interpreting audio LMs.</li>
     <li><strong>Fall 2026</strong>: The <a href="https://actionable-interpretability.github.io/">Actionable Interpretability</a> workshop will be happening again at COLM 2026! Submit by June <s>21st</s> 24th.</li>
