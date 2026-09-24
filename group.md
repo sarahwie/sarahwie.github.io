@@ -16,12 +16,12 @@ permalink: /group/
     <img src="{{ site.baseurl }}/assets/students/connor.jpg" alt="Connor Dilgren" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px;">
     <p style="margin-top: 10px; margin-bottom: 5px; font-weight: bold;"><a href="https://connordilgren.github.io/" target="_blank" rel="noopener">Connor Dilgren</a></p>
     <p style="margin: 0; font-size: 0.9em; color: #666;">CS PhD (2026-)</p>
-    <p style="margin: 0; font-size: 0.85em; color: #888;"></p>
+    <p style="margin: 0; font-size: 0.85em; color: #888;">M.S. 2025-2026</p>
   </div>
   <div style="text-align: center;">
     <img src="{{ site.baseurl }}/assets/students/yiksiu.jpg" alt="Yik Siu Chan" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px;">
     <p style="margin-top: 10px; margin-bottom: 5px; font-weight: bold;"><a href="https://yiksiu-chan.github.io/" target="_blank" rel="noopener">Yik Siu Chan</a></p>
-    <p style="margin: 0; font-size: 0.9em; color: #666;">CS PhD (2026-)</p>
+    <p style="margin: 0; font-size: 0.9em; color: #666;">CS PhD (2027-)</p>
     <p style="margin: 0; font-size: 0.85em; color: #888;">Co-advised with Hal Daumé III</p>
   </div>
 </div>

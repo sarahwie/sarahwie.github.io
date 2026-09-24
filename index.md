@@ -16,11 +16,17 @@ Previously, I was a postdoctoral researcher at the Allen Institute for AI (Ai2) 
 ### Recent Updates
 <div class="updates-box">
   <ul>
-    <li><strong>Fall 2026</strong>: Thanks to AI2, <a href="https://www.umiacs.umd.edu/news-events/news/clip-researchers-receive-aim-seed-grant-study-roots-ai-bias">AIM</a>, and <a href="https://withmartian.com/prize">Martian</a> for recent funding supporting the lab.</li>
+    <li><strong>Fall 2026</strong>: Invited talk at Johns Hopkins CLSP seminar.</li>
+    <li><strong>Fall 2026</strong>: Invited talk at <a href="https://www.trails.umd.edu/">TRAILS</a> seminar.</li>
+    <li><strong>Summer 2026</strong>: I did a Reddit <a href="https://www.reddit.com/r/askscience/comments/1vm665h/askscience_ama_series_i_am_a_natural_language/">AMA</a>.</li>
+    <li><strong>Summer 2026</strong>: SAC and best paper committee member for EMNLP 2026.</li>
+    <li><strong>Summer 2026</strong>: New <a href="https://www.lesswrong.com/posts/z9fPtghFxELBXebY3/evaluating-chain-of-thought-monitorability-is-still-an-open">blogpost</a> on the state of Chain-of-Thought Monitorability evaluations.</li>
+    <li><strong>Summer 2026</strong>: One <a href="https://arxiv.org/abs/2604.08524">paper</a> at EMNLP on finding steering vector circuits and doing circuit attribution for long-form generation.</li>
+    <li><strong>Summer 2026</strong>: Thanks to AI2, <a href="https://www.umiacs.umd.edu/news-events/news/clip-researchers-receive-aim-seed-grant-study-roots-ai-bias">AIM</a>, and <a href="https://withmartian.com/prize">Martian</a> for recent funding supporting the lab.</li>
     <!-- https://today.umd.edu/aim-seed-grants-support-11-ai-research-projects -->
-    <li><strong>Fall 2026</strong>: One <a href="https://arxiv.org/abs/2604.04902">paper</a> at COLM on interpreting latent reasoning models.</li>
-    <li><strong>Fall 2026</strong>: One <a href="https://arxiv.org/abs/2606.17417">paper</a> at Interspeech on interpreting audio LMs.</li>
-    <li><strong>Fall 2026</strong>: The <a href="https://actionable-interpretability.github.io/">Actionable Interpretability</a> workshop will be happening again at COLM 2026! Submit by June <s>21st</s> 24th.</li>
+    <li><strong>Summer 2026</strong>: One <a href="https://arxiv.org/abs/2604.04902">paper</a> at COLM on interpreting latent reasoning models.</li>
+    <li><strong>Summer 2026</strong>: One <a href="https://arxiv.org/abs/2606.17417">paper</a> at Interspeech on interpreting audio LMs.</li>
+    <li><strong>Summer 2026</strong>: The <a href="https://actionable-interpretability.github.io/">Actionable Interpretability</a> workshop will be happening again at COLM 2026! Submit by June <s>21st</s> 24th.</li>
     <li><strong>Summer 2026</strong>: We will be at <a href="https://nemiconf.github.io/summer26/">NEMI</a>!</li>
     <li><strong>Summer 2026</strong>: Recent preprints on <a href="https://arxiv.org/abs/2606.07631">contrastive linear directions predictive of emergent misalignment</a> and <a href="https://arxiv.org/abs/2606.12818">finding circuits that drive cognitive anchoring behavior in LLMs</a>.</li>
     <li><strong>Summer 2026</strong>: Congrats to Nishkal, Swastik, and Navita on their <a href="https://openreview.net/forum?id=9E4EQKTQts">paper on predicting steering vector success from geometric properties</a> accepted to the Mechanistic Interpretability workshop at ICML. <a href="https://mechinterpworkshop.com/poster-pdfs/495.pdf">Poster.</a> Full paper coming soon!</li>
