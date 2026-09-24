@@ -96,4 +96,9 @@ Previously, I was a postdoctoral researcher at the Allen Institute for AI (Ai2) 
       <img src="{{ site.baseurl }}/assets/sponsors/nairr.png" alt="Sponsor" style="width: 140px; height: 80px; object-fit: contain; border-radius: 8px;">
     </a>
   </div>
+  <div style="flex: 0 0 auto;">
+    <a href="https://withmartian.com/" target="_blank" rel="noopener">
+      <img src="{{ site.baseurl }}/assets/sponsors/martian.svg" alt="Martian" style="width: 140px; height: 80px; object-fit: contain; border-radius: 8px;">
+    </a>
+  </div>
 </div>
