@@ -16,9 +16,9 @@ Previously, I was a postdoctoral researcher at the Allen Institute for AI (Ai2) 
 ### Recent Updates
 <div class="updates-box">
   <ul>
-    <li><strong>Fall 2026</strong>: Invited talk at Johns Hopkins CLSP seminar.</li>
+    <li><strong>Fall 2026</strong>: Invited talk at Johns Hopkins CLSP.</li>
     <li><strong>Fall 2026</strong>: Invited talk at <a href="https://www.trails.umd.edu/">TRAILS</a> seminar.</li>
-    <li><strong>Summer 2026</strong>: I did a Reddit <a href="https://www.reddit.com/r/askscience/comments/1vm665h/askscience_ama_series_i_am_a_natural_language/">AMA</a>.</li>
+    <li><strong>Summer 2026</strong>: Reddit r/askscience <a href="https://www.reddit.com/r/askscience/comments/1vm665h/askscience_ama_series_i_am_a_natural_language/">AMA</a>.</li>
     <li><strong>Summer 2026</strong>: SAC and best paper committee member for EMNLP 2026.</li>
     <li><strong>Summer 2026</strong>: New <a href="https://www.lesswrong.com/posts/z9fPtghFxELBXebY3/evaluating-chain-of-thought-monitorability-is-still-an-open">blogpost</a> on the state of Chain-of-Thought Monitorability evaluations.</li>
     <li><strong>Summer 2026</strong>: One <a href="https://arxiv.org/abs/2604.08524">paper</a> at EMNLP on finding steering vector circuits and doing circuit attribution for long-form generation.</li>

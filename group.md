@@ -34,14 +34,15 @@ permalink: /group/
   </div>
   <button onclick="previousPhoto()" style="position: absolute; left: -60px; top: 50%; transform: translateY(-50%); background: none; border: none; font-size: 32px; cursor: pointer; color: #666;">❮</button>
   <button onclick="nextPhoto()" style="position: absolute; right: -60px; top: 50%; transform: translateY(-50%); background: none; border: none; font-size: 32px; cursor: pointer; color: #666;">❯</button>
-  <p id="photoCounter" style="text-align: left; margin-top: 10px; font-size: 0.9em; color: #666;">1 of 3</p>
+  <p id="photoCounter" style="text-align: left; margin-top: 10px; font-size: 0.9em; color: #666;">1 of 4</p>
 </div>
 
 <script>
   const photos = [
     "{{ site.baseurl }}/assets/group/sp26_01.jpg",
     "{{ site.baseurl }}/assets/group/sp26_02.jpeg",
-    "{{ site.baseurl }}/assets/group/sp26_03.jpg"
+    "{{ site.baseurl }}/assets/group/sp26_03.jpg",
+    "{{ site.baseurl }}/assets/group/f26.jpg"
   ];
   let currentPhotoIndex = 0;
 
